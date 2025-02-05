@@ -1,0 +1,97 @@
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:17:51.184Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:18:36.825Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:18:36.826Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:18:44.957Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:18:44.957Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:18:51.470Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:18:51.471Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:26:38.961Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:26:41.659Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:26:52.620Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:26:54.616Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:19.542Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:27.695Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:36.568Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:39.881Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:45.040Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:48.931Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:50.844Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:27:56.545Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:28:06.097Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:28:14.234Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:28:19.498Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:28:24.373Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:04.612Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:07.261Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:08.961Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:12.426Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:14.623Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:15.946Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:26.153Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:31:32.027Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:32:54.899Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:32:58.334Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:01.803Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:09.944Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:13.049Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:14.064Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:16.695Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:23.001Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:29.476Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:32.668Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:34.164Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:33:42.290Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:34:54.004Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:34:55.996Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:34:58.839Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:00.906Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:09.325Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:11.026Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:14.926Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:16.393Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:21.085Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:23.201Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:25.405Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:29.069Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:31.277Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:33.581Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:39.711Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:41.460Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:35:47.140Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:36:52.005Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:01.731Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:07.275Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:17.779Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:24.202Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:34.232Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:36.917Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:39.463Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:45.721Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:37:48.090Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:39:17.653Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:39:39.658Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:39:39.658Z"}
+{"level":"error","message":"TypeError: Cannot read properties of undefined (reading 'replace')\n    at proxyReqPathResolver (/home/rabin/Desktop/social-media-microservice/api-gateway/src/server.js:46:36)\n    at resolveProxyReqPath (/home/rabin/Desktop/social-media-microservice/api-gateway/node_modules/express-http-proxy/app/steps/resolveProxyReqPath.js:14:14)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","service":"api-gateway","timestamp":"2025-02-05T06:39:39.661Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:40:29.268Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:40:37.231Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:40:37.231Z"}
+{"level":"info","message":"Response received from identity-service : 404","service":"api-gateway","timestamp":"2025-02-05T06:40:37.243Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:41:27.345Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:41:36.402Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:41:36.403Z"}
+{"level":"info","message":"Response received from identity-service : 404","service":"api-gateway","timestamp":"2025-02-05T06:41:36.413Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:41:55.633Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:42:01.868Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:42:01.868Z"}
+{"level":"info","message":"Response received from identity-service : 404","service":"api-gateway","timestamp":"2025-02-05T06:42:01.878Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:42:53.481Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:43:00.616Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:43:00.616Z"}
+{"level":"info","message":"Response received from identity-service : 400","service":"api-gateway","timestamp":"2025-02-05T06:43:00.631Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T06:43:10.670Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T06:43:10.671Z"}
+{"level":"info","message":"Response received from identity-service : 201","service":"api-gateway","timestamp":"2025-02-05T06:43:10.760Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:40.384Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:45.370Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:50.683Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:54.847Z"}
