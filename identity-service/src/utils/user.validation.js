@@ -11,4 +11,13 @@ const validateRegistration = (data)=>{
     return userSchema.validate(data)
 }
 
-module.exports = validateRegistration
+const validateLogin = (data)=>{
+    const userSchema = Joi.object({
+        email:Joi.string().email().required(),
+        password:Joi.string().required(),
+    })
+
+    return userSchema.validate(data)
+}
+
+module.exports = {validateRegistration,validateLogin}
