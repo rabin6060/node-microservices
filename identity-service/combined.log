@@ -441,3 +441,593 @@
 {"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T05:28:54.029Z"}
 {"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T05:28:54.042Z"}
 {"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T05:28:54.052Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:18:17.550Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:18:17.563Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:18:17.572Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:18:17.577Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T06:18:36.855Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:18:36.855Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T06:18:36.862Z"}
+{"0":"\"","1":"e","10":"s","11":"t","12":" ","13":"b","14":"e","15":" ","16":"a","17":" ","18":"v","19":"a","2":"m","20":"l","21":"i","22":"d","23":" ","24":"e","25":"m","26":"a","27":"i","28":"l","3":"a","4":"i","5":"l","6":"\"","7":" ","8":"m","9":"u","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T06:18:36.869Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T06:18:44.962Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:18:44.962Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T06:18:44.965Z"}
+{"0":"\"","1":"e","10":"s","11":"t","12":" ","13":"b","14":"e","15":" ","16":"a","17":" ","18":"v","19":"a","2":"m","20":"l","21":"i","22":"d","23":" ","24":"e","25":"m","26":"a","27":"i","28":"l","3":"a","4":"i","5":"l","6":"\"","7":" ","8":"m","9":"u","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T06:18:44.967Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T06:18:51.475Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:18:51.475Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T06:18:51.477Z"}
+{"buffer":{"data":[103,163,2,203,209,172,175,118,6,102,2,152],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T06:18:51.628Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"identity-service","timestamp":"2025-02-05T06:40:37.238Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:40:37.239Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"identity-service","timestamp":"2025-02-05T06:41:36.409Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:41:36.410Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"identity-service","timestamp":"2025-02-05T06:42:01.875Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:42:01.875Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T06:43:00.624Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:43:00.624Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T06:43:00.625Z"}
+{"level":"warn","message":"User already exist","service":"identity-service","timestamp":"2025-02-05T06:43:00.629Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T06:43:10.674Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T06:43:10.675Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T06:43:10.676Z"}
+{"buffer":{"data":[103,163,8,126,209,172,175,118,6,102,2,158],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T06:43:10.756Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:15.041Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:15.051Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:15.056Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:15.061Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:27.565Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:27.577Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:27.585Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:27.590Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:31.125Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:31.138Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:31.146Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:31.151Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:34.809Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:34.820Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:34.825Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:34.830Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:41.358Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:41.368Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:41.373Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:41.378Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:42.663Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:42.673Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:42.678Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:42.683Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:52.234Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:52.244Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:52.249Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:52.254Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:54:54.060Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:54:54.074Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:54:54.084Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:54:54.088Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:03.468Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:03.483Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:03.492Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:03.501Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:08.712Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:08.724Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:08.729Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:08.734Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:10.465Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:10.477Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:10.484Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:10.488Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:19.202Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:19.218Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:19.226Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:19.231Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:26.392Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:26.404Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:26.413Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:26.418Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:27.471Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:27.485Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:27.494Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:27.499Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:30.209Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:30.219Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:30.224Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:30.229Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:37.360Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:37.372Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:37.380Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:37.387Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:39.777Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:39.788Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:39.793Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:39.798Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:44.128Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:44.138Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:44.143Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:44.148Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:53.167Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:53.179Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:53.187Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:53.193Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:55.564Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:55.576Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:55.581Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:55.586Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:55:58.203Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:55:58.216Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:55:58.224Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:55:58.229Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:00.809Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:00.819Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:00.824Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:00.829Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:11.828Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:11.839Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:11.844Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:11.850Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:13.468Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:13.480Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:13.485Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:13.489Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:14.775Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:14.788Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:14.798Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:14.804Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:17.801Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:17.811Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:17.816Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:17.821Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:22.169Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:22.180Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:22.185Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:22.189Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:26.670Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:26.682Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:26.691Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:26.695Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:39.247Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:39.257Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:39.262Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:39.267Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:47.063Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:47.074Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:47.079Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:47.085Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:56:59.485Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:56:59.497Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:56:59.502Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:56:59.507Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:02.478Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:02.489Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:02.494Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:02.499Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:04.398Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:04.409Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:04.416Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:04.421Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:08.292Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:08.305Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:08.315Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:08.319Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:13.414Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:13.424Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:13.430Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:13.435Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:16.203Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:16.213Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:16.219Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:16.224Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:23.030Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:23.040Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:23.045Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:23.050Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:34.733Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:34.744Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:34.750Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:34.755Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:57:48.596Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:57:48.606Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:57:48.611Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:57:48.616Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:58:13.753Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:58:13.767Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:58:13.776Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:58:13.780Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:58:16.577Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:58:16.589Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:58:16.595Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:58:16.600Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:58:26.704Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:58:26.715Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:58:26.721Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:58:26.725Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:58:29.105Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:58:29.115Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:58:29.120Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:58:29.125Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:58:50.950Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:58:50.964Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:58:50.973Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:58:50.978Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:58:55.313Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:58:55.325Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:58:55.332Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:58:55.337Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T06:59:54.973Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T06:59:54.985Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T06:59:54.990Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T06:59:54.995Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:03.432Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:03.444Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:03.449Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:03.454Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:07.125Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:07.138Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:07.146Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:07.151Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:09.791Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:09.802Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:09.807Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:09.814Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:12.502Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:12.515Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:12.525Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:12.531Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:35.924Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:35.934Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:35.939Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:35.944Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:42.709Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:42.722Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:42.731Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:42.736Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:43.816Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:43.827Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:43.834Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:43.841Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:48.938Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:48.950Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:48.958Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:48.963Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:51.305Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:51.315Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:51.320Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:51.324Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:00:53.285Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:00:53.297Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:00:53.302Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:00:53.308Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:01:07.968Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:01:07.981Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:01:07.989Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:01:07.994Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:01:14.166Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:01:14.179Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:01:14.187Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:01:14.193Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:01:19.508Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:01:19.520Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:01:19.525Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:01:19.530Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:02:24.185Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:02:24.196Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:02:24.201Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:02:24.206Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:02:31.406Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:02:31.416Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:02:31.421Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:02:31.426Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:02:38.286Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:02:38.297Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:02:38.303Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:02:38.308Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:02:40.260Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:02:40.270Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:02:40.276Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:02:40.281Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:02:47.758Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:02:47.768Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:02:47.773Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:02:47.778Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:02:50.971Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:02:50.983Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:02:50.991Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:02:50.996Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:03:05.809Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:03:05.820Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:03:05.825Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:03:05.832Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:03:17.966Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:03:17.981Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:03:17.992Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:03:17.997Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:03:30.868Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:03:30.881Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:03:30.889Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:03:30.894Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:07.821Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:07.831Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:07.837Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:07.842Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:11.629Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:11.640Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:11.646Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:11.652Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:12.642Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:12.659Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:12.666Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:12.676Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:14.129Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:14.142Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:14.149Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:14.154Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:23.705Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:23.717Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:23.724Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:23.730Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:26.883Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:26.903Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:26.913Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:26.918Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:39.536Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:39.549Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:39.559Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:39.564Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:44.772Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:44.783Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:44.791Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:44.810Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:46.556Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:46.569Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:46.580Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:46.585Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:49.895Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:49.906Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:49.911Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:49.918Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:54.304Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:54.317Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:54.327Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:54.331Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:04:56.600Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:04:56.610Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:04:56.616Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:04:56.622Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:05:16.741Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:05:16.751Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:05:16.756Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:05:16.761Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:05:41.306Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:05:41.319Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:05:41.328Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:05:41.334Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:05:44.860Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:05:44.872Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:05:44.882Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:05:44.888Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:06:53.216Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:06:53.216Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:06:53.218Z"}
+{"level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:06:53.233Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:07:23.566Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:07:23.566Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:07:23.568Z"}
+{"level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:07:23.572Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:10:08.248Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:10:08.249Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:10:08.250Z"}
+{"level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:10:08.254Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:11:11.442Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:11:11.452Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:11:11.457Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:11:11.462Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:11:15.886Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:11:15.899Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:11:15.908Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:11:15.914Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:11:19.691Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:11:19.692Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:11:19.694Z"}
+{"0":"U","1":"s","10":"r","11":"e","12":"P","13":"a","14":"s","15":"s","16":"w","17":"o","18":"r","19":"d","2":"e","20":" ","21":"i","22":"s","23":" ","24":"n","25":"o","26":"t","27":" ","28":"a","29":" ","3":"r","30":"f","31":"u","32":"n","33":"c","34":"t","35":"i","36":"o","37":"n","4":".","5":"c","6":"o","7":"m","8":"p","9":"a","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:11:19.711Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T07:11:48.899Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:11:48.900Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T07:11:48.904Z"}
+{"level":"warn","message":"User already exist","service":"identity-service","timestamp":"2025-02-05T07:11:48.909Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T07:11:56.019Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:11:56.019Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T07:11:56.022Z"}
+{"buffer":{"data":[103,163,15,60,33,244,44,121,22,208,206,5],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T07:11:56.189Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:12:10.803Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:12:10.804Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:12:10.804Z"}
+{"0":"\"","1":"u","10":" ","11":"i","12":"s","13":" ","14":"n","15":"o","16":"t","17":" ","18":"a","19":"l","2":"s","20":"l","21":"o","22":"w","23":"e","24":"d","3":"e","4":"r","5":"n","6":"a","7":"m","8":"e","9":"\"","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T07:12:10.807Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:12:18.976Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:12:18.976Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:12:18.977Z"}
+{"0":"U","1":"s","10":"r","11":"e","12":"P","13":"a","14":"s","15":"s","16":"w","17":"o","18":"r","19":"d","2":"e","20":" ","21":"i","22":"s","23":" ","24":"n","25":"o","26":"t","27":" ","28":"a","29":" ","3":"r","30":"f","31":"u","32":"n","33":"c","34":"t","35":"i","36":"o","37":"n","4":".","5":"c","6":"o","7":"m","8":"p","9":"a","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:12:18.983Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:12:58.568Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:12:58.578Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:12:58.583Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:12:58.588Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:13:01.469Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:13:01.469Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:13:01.472Z"}
+{"0":"U","1":"s","10":"r","11":"e","12":"P","13":"a","14":"s","15":"s","16":"w","17":"o","18":"r","19":"d","2":"e","20":" ","21":"i","22":"s","23":" ","24":"n","25":"o","26":"t","27":" ","28":"a","29":" ","3":"r","30":"f","31":"u","32":"n","33":"c","34":"t","35":"i","36":"o","37":"n","4":".","5":"c","6":"o","7":"m","8":"p","9":"a","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:13:01.490Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:13:40.071Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:13:40.072Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:13:40.073Z"}
+{"0":"U","1":"s","10":"r","11":"e","12":"P","13":"a","14":"s","15":"s","16":"w","17":"o","18":"r","19":"d","2":"e","20":" ","21":"i","22":"s","23":" ","24":"n","25":"o","26":"t","27":" ","28":"a","29":" ","3":"r","30":"f","31":"u","32":"n","33":"c","34":"t","35":"i","36":"o","37":"n","4":".","5":"c","6":"o","7":"m","8":"p","9":"a","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-05T07:13:40.080Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:14:31.975Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:14:31.987Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:14:31.993Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:14:31.999Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:14:39.159Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:14:39.159Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:14:39.161Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-05T07:14:39.324Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T07:14:45.216Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:14:45.216Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T07:14:45.218Z"}
+{"level":"warn","message":"User credential invalid","service":"identity-service","timestamp":"2025-02-05T07:14:45.328Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:23:41.989Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:23:41.998Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:23:42.004Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:23:42.009Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:23:53.655Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:23:53.664Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:23:53.670Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:23:53.674Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:23:58.626Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:23:58.636Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:23:58.648Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:23:58.656Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:24:06.855Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:24:06.865Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:24:06.873Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:24:06.878Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:24:18.833Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:24:18.843Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:24:18.850Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:24:18.853Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:24:22.360Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:24:22.368Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:24:22.373Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:24:22.378Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:24:23.890Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:24:23.897Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:24:23.902Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:24:23.906Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:25:08.067Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:25:08.078Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:25:08.086Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:25:08.090Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:25:11.122Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:25:11.130Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:25:11.134Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:25:11.138Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:25:18.988Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:25:18.998Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:25:19.007Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:25:19.012Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:25:27.836Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:25:27.845Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:25:27.853Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:25:27.858Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:25:58.343Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:25:58.351Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:25:58.355Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:25:58.359Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:10.266Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:10.277Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:10.282Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:10.289Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:16.336Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:16.345Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:16.351Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:16.361Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:18.260Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:18.269Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:18.273Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:18.277Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:21.413Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:21.423Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:21.431Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:21.436Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:23.434Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:23.443Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:23.450Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:23.454Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:44.860Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:44.870Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:44.877Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:44.881Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:54.883Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:54.893Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:54.897Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:54.905Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:56.321Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:56.331Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:56.340Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:56.347Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:26:57.941Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:26:57.948Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:26:57.952Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:26:57.957Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:02.854Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:02.862Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:02.867Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:02.871Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:19.542Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:19.550Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:19.554Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:19.559Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:27.437Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:27.447Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:27.455Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:27.460Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:29.611Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:29.619Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:29.623Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:29.628Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:30.678Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:30.687Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:30.692Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:30.695Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:33.524Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:33.531Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:33.537Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:33.542Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:36.383Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:36.390Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:36.394Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:36.398Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:43.288Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:43.296Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:43.301Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:43.305Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:44.963Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:44.973Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:44.980Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:44.984Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:27:48.663Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:27:48.671Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:27:48.675Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:27:48.681Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:28:10.168Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:28:10.178Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:28:10.185Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:28:10.190Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:28:20.937Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:28:20.948Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:28:20.958Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:28:20.963Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:28:26.721Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:28:26.728Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:28:26.733Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:28:26.738Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:28:31.283Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:28:31.291Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:28:31.295Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:28:31.299Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:28:48.244Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:28:48.253Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:28:48.257Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:28:48.262Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:28:56.008Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:28:56.016Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:28:56.020Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:28:56.024Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:29:14.736Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:29:14.744Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:29:14.749Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:29:14.753Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:29:18.087Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:29:18.095Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:29:18.103Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:29:18.109Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T07:29:32.691Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T07:29:32.701Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T07:29:32.706Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T07:29:32.710Z"}
+{"level":"info","message":"Request POST to path /api/auth/logout","service":"identity-service","timestamp":"2025-02-05T07:30:37.462Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:30:37.463Z"}
+{"level":"info","message":"logout starting...","service":"identity-service","timestamp":"2025-02-05T07:30:37.466Z"}
+{"level":"info","message":"logout successfully","service":"identity-service","timestamp":"2025-02-05T07:30:37.479Z"}
