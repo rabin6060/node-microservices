@@ -4,8 +4,9 @@
   "main": "src/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "docker": "sudo docker-compose up -d",
     "start": "node src/server.js",
-    "dev": "nodemon src/server.js"
+    "dev": "npm run docker && sleep 1 && nodemon src/server.js"
   },
   "keywords": [],
   "author": "",
@@ -26,6 +27,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.9.6",
     "rate-limit-redis": "^4.2.0",
+    "rate-limiter-flexible": "^5.0.5",
     "winston": "^3.17.0"
   }
 }
