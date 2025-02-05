@@ -1,6 +1,7 @@
 const logger = require("../utils/logger")
-const validateRegistration = require("../utils/user.validation")
+const {validateRegistration,validateLogin} = require("../utils/user.validation")
 const User = require('../models/user.model')
+const RefreshToken = require('../models/refreshToken')
 const generateToken = require("../utils/generateToken")
 
 const register = async (req,res)=>{
@@ -43,4 +44,78 @@ const register = async (req,res)=>{
     }
 }
 
-module.exports = register
+const login = async(req,res)=>{
+    logger.info("login starting..")
+    try {
+        const {error} = validateLogin(req.body)
+        if (error) {
+            logger.warn("validation failed",error.details[0].message)
+            return res.status(400).json({
+                success:false,
+                message:error.details[0].message
+            })
+        }
+        //find user
+        const {email,password} = req.body
+        const user = await User.findOne({email})
+        if (!user) {
+            logger.warn("User credential invalid")
+            return res.status(400).json({
+                success:false,
+                message:"User credential invalid"
+            })
+        }
+        //verify password
+        const isVerified = await user.comparePassword(password)
+        if (!isVerified) {
+            logger.warn("User credential invalid")
+            return res.status(400).json({
+                success:false,
+                message:"User credential invalid"
+            })
+        }
+        const {accessToken,refreshToken} = await generateToken(user)
+        logger.info("Login successFully")
+        res.status(200).json({
+            user:user._id,
+            accessToken,
+            refreshToken
+        })
+    } catch (error) {
+        logger.error('Login Failed',error.message)
+        res.status(500).json({
+            success:false,
+            message:"Internal server error"
+        })
+    }
+}
+
+const logout = async(req,res)=>{
+    logger.info("logout starting...")
+    try {
+        const {refreshToken} = req.body
+        const token = await RefreshToken.findOne({token:refreshToken})
+        if (!token) {
+            logger.warn("Refresh token invalid")
+            return res.status(400).json({
+                success:false,
+                message:"Refresh token invalid"
+            })
+        }
+        await RefreshToken.deleteOne({id:token._id})
+        logger.info("logout successfully")
+        res.status(200).json({
+            success:true,
+            message:'logout successfully'
+        })
+        
+    } catch (error) {
+        logger.error('Login Failed',error.message)
+        res.status(500).json({
+            success:false,
+            message:"Internal server error"
+        })
+    }
+}
+
+module.exports = {register,login,logout}
