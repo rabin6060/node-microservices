@@ -1,0 +1,443 @@
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:43:14.576Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:43:14.580Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:43:14.581Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:14.593Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:43:14.605Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:14.647Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:14.749Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:14.902Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:15.107Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:15.360Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:15.664Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:16.015Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:16.418Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:16.871Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:17.375Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:17.927Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:18.531Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:19.184Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:19.886Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:20.639Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:21.442Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:22.294Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:23.197Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:24.150Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:25.153Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:43:42.532Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:43:42.536Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:43:42.536Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:42.544Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:43:42.550Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:42.597Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:42.699Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:42.851Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:43.052Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:43.305Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:43.607Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:43.959Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:44.362Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:44.815Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:45.319Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:45.871Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:46.474Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:47.127Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:47.829Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:48.582Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:49.384Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:50.236Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:51.139Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:43:52.029Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:43:52.032Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:43:52.033Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:52.041Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:43:52.047Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:52.092Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:52.195Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:52.348Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:52.551Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:52.805Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:53.107Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:53.460Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:53.863Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:54.316Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:54.818Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:55.372Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:55.975Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:56.628Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:57.331Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:58.083Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:58.885Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:43:59.739Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:44:00.642Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:44:01.595Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T12:44:02.597Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:56:05.852Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:56:05.855Z"}
+{"level":"error","message":"Unhandled rejection at [object Promise] reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:56:05.856Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:56:05.870Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:13.036Z"}
+{"level":"warn","message":"","service":"identity-service","timestamp":"2025-02-04T12:57:13.039Z"}
+{"level":"warn","message":"","service":"identity-service","timestamp":"2025-02-04T12:57:13.039Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:13.058Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:15.828Z"}
+{"level":"error","message":"","service":"identity-service","timestamp":"2025-02-04T12:57:15.831Z"}
+{"level":"error","message":"","service":"identity-service","timestamp":"2025-02-04T12:57:15.832Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:15.847Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:25.222Z"}
+{"level":"error","message":"Unhandled ","service":"identity-service","timestamp":"2025-02-04T12:57:25.225Z"}
+{"level":"error","message":"Unhandled ","service":"identity-service","timestamp":"2025-02-04T12:57:25.226Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:25.247Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:30.334Z"}
+{"level":"error","message":"Unhandled Rejection due to p","service":"identity-service","timestamp":"2025-02-04T12:57:30.338Z"}
+{"level":"error","message":"Unhandled Rejection due to p","service":"identity-service","timestamp":"2025-02-04T12:57:30.338Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:30.356Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:33.270Z"}
+{"level":"error","message":"Unhandled Rejection due to promise ","service":"identity-service","timestamp":"2025-02-04T12:57:33.273Z"}
+{"level":"error","message":"Unhandled Rejection due to promise ","service":"identity-service","timestamp":"2025-02-04T12:57:33.274Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:33.287Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:38.127Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] ","service":"identity-service","timestamp":"2025-02-04T12:57:38.130Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] ","service":"identity-service","timestamp":"2025-02-04T12:57:38.130Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:38.147Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:43.619Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason ","service":"identity-service","timestamp":"2025-02-04T12:57:43.622Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason ","service":"identity-service","timestamp":"2025-02-04T12:57:43.622Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:43.642Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:57:47.812Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:57:47.815Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:57:47.816Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:57:47.835Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:58:01.667Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:01.671Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:01.671Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:58:01.691Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:58:36.751Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:36.754Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:36.755Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:58:36.768Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:58:43.212Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:43.216Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:43.216Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:58:43.234Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:58:47.131Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:47.135Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:47.135Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:58:47.151Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:58:59.220Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:59.224Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:58:59.224Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:58:59.243Z"}
+{"0":"3","1":"0","2":"0","3":"1","level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T12:59:27.791Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:59:27.795Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T12:59:27.795Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T12:59:27.809Z"}
+{"level":"info","message":"server running at port ","service":"identity-service","timestamp":"2025-02-04T13:00:00.580Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:00:00.584Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:00:00.584Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:00:00.598Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:00:03.753Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:00:03.757Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:00:03.757Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:00:03.771Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:01:22.816Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:01:22.820Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:01:22.820Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:01:22.840Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:11:01.462Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:11:01.464Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:11:01.465Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:11:01.477Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:12:17.223Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:17.225Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:17.225Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:12:17.240Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:12:35.842Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:35.846Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:35.846Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:12:35.857Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:12:45.220Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:45.223Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:45.223Z"}
+{"level":"error","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T13:12:45.232Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:12:45.241Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:12:47.898Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:47.900Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:47.901Z"}
+{"level":"info","message":"redis connection failed","service":"identity-service","timestamp":"2025-02-04T13:12:47.908Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:12:47.916Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:12:51.008Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:51.010Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:12:51.011Z"}
+{"level":"info","message":"redis connection","service":"identity-service","timestamp":"2025-02-04T13:12:51.021Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:12:51.026Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:13:01.156Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:13:01.159Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:13:01.159Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-04T13:13:01.165Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:13:01.169Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-04T13:14:00.939Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:14:00.941Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-04T13:14:00.941Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-04T13:14:00.950Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-04T13:14:00.965Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:21:09.129Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:21:09.132Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:21:09.133Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:21:09.144Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:27:31.230Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:27:31.233Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:27:31.233Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:27:31.241Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:27:42.155Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:27:42.158Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:27:42.158Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:27:42.166Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:29:54.575Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:29:54.578Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:29:54.578Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:29:54.588Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:32:08.368Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:32:08.371Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:32:08.371Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:32:08.378Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:32:18.748Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:32:18.752Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:32:18.752Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:32:18.762Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:34:13.768Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:13.773Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:13.774Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:34:13.784Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:34:27.143Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:27.147Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:27.147Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:34:27.154Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:34:29.334Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:29.337Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:29.337Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:34:29.345Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:34:47.716Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:47.720Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: unexpected reply from redis client","service":"identity-service","timestamp":"2025-02-05T03:34:47.720Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:34:47.729Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:35:57.191Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:35:57.203Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:35:57.206Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1373066,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-05T03:36:27.187Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:37:10.397Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:37:10.410Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:37:10.414Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1446283,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-05T03:37:40.394Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:39:28.630Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:39:28.640Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:39:28.642Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1584482,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-05T03:39:58.625Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:41:48.524Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:41:48.524Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:42:27.868Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:42:27.878Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:42:27.881Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:42:40.373Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:42:40.373Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1763739,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-05T03:42:57.864Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:43:00.302Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:43:00.302Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:44:38.474Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:44:38.483Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:44:38.486Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:44:47.339Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:44:47.340Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1894348,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-05T03:45:08.469Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:45:33.357Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:45:33.369Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:45:33.373Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:45:40.459Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:45:40.459Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1949234,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-05T03:46:03.352Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:46:04.336Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:46:04.336Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:47:20.511Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:47:20.512Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:47:33.504Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:47:33.518Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:47:33.529Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:47:33.534Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:47:43.288Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:47:43.288Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:48:19.560Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:48:19.574Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:48:19.584Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:48:19.592Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:48:26.571Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:48:26.582Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:48:26.591Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:48:26.595Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:48:31.185Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:49:02.479Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:49:02.488Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:49:02.494Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:49:02.499Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:49:06.348Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:49:23.422Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:49:23.435Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:49:23.445Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:49:23.453Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:49:43.804Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:49:43.804Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:51:57.141Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:51:57.154Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:51:57.159Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:51:57.164Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:52:11.255Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:52:11.256Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T03:52:11.259Z"}
+{"buffer":{"data":[103,162,224,107,51,99,19,176,135,56,51,152],"type":"Buffer"},"level":"warn","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T03:52:11.421Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason TypeError: Date.now is not a constructor","service":"identity-service","timestamp":"2025-02-05T03:52:11.433Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:52:40.787Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:52:40.798Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:52:40.803Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:52:40.810Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:53:41.306Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:53:41.316Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:53:41.321Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:53:41.326Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:53:54.442Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:53:54.443Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T03:53:54.446Z"}
+{"buffer":{"data":[103,162,224,210,207,7,76,33,255,240,73,254],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T03:53:54.622Z"}
+{"level":"error","message":"User Registeration Failed!! Date.now is not a constructor","service":"identity-service","stack":"TypeError: Date.now is not a constructor\n    at generateToken (/home/rabin/Desktop/social-media-microservice/identity-service/src/utils/generateToken.js:12:23)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:30:49)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-05T03:53:54.632Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:55:24.862Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:55:24.878Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:55:24.889Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:55:24.895Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:55:31.525Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:55:31.525Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T03:55:31.528Z"}
+{"level":"warn","message":"User already exist","service":"identity-service","timestamp":"2025-02-05T03:55:31.546Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:56:02.954Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:56:02.954Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T03:56:02.955Z"}
+{"buffer":{"data":[103,162,225,82,183,84,219,124,103,0,46,103],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T03:56:03.083Z"}
+{"level":"error","message":"User Registeration Failed!! Date.now is not a constructor","service":"identity-service","stack":"TypeError: Date.now is not a constructor\n    at generateToken (/home/rabin/Desktop/social-media-microservice/identity-service/src/utils/generateToken.js:12:23)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:30:49)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-05T03:56:03.091Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:56:15.552Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:56:15.564Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:56:15.573Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:56:15.578Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:57:06.929Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:57:06.939Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:57:06.944Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:57:06.951Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:57:08.498Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:57:08.513Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:57:08.524Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:57:08.535Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:57:09.953Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:57:09.966Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:57:09.976Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:57:09.981Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:57:11.878Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:57:11.890Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:57:11.901Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:57:11.906Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:57:13.503Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:57:13.516Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:57:13.527Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:57:13.532Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:57:18.508Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:57:18.509Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T03:57:18.512Z"}
+{"buffer":{"data":[103,162,225,158,225,133,120,66,18,151,73,202],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T03:57:18.639Z"}
+{"level":"error","message":"User Registeration Failed!! Date.now is not a constructor","service":"identity-service","stack":"TypeError: Date.now is not a constructor\n    at generateToken (/home/rabin/Desktop/social-media-microservice/identity-service/src/utils/generateToken.js:12:23)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:30:49)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-05T03:57:18.642Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:58:49.024Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:58:49.037Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:58:49.050Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:58:49.058Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:58:50.528Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:58:50.541Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:58:50.550Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:58:50.555Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T03:59:01.134Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T03:59:01.147Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T03:59:01.157Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T03:59:01.163Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T03:59:04.899Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T03:59:04.899Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T03:59:04.902Z"}
+{"buffer":{"data":[103,162,226,8,137,251,61,41,16,78,126,35],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T03:59:05.028Z"}
+{"level":"error","message":"User Registeration Failed!! Date.now is not a constructor","service":"identity-service","stack":"TypeError: Date.now is not a constructor\n    at generateToken (/home/rabin/Desktop/social-media-microservice/identity-service/src/utils/generateToken.js:12:23)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:30:49)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-05T03:59:05.035Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T04:00:19.302Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T04:00:19.312Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T04:00:19.317Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T04:00:19.322Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T04:00:37.010Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T04:00:37.010Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T04:00:37.014Z"}
+{"buffer":{"data":[103,162,226,101,151,107,221,47,194,163,147,230],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T04:00:37.171Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T04:01:42.754Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T04:01:42.766Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T04:01:42.776Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T04:01:42.781Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T04:01:45.304Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T04:01:45.315Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T04:01:45.322Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T04:01:45.330Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T04:02:03.186Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T04:02:03.187Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T04:02:03.191Z"}
+{"buffer":{"data":[103,162,226,187,64,139,149,0,158,44,74,66],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T04:02:03.386Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:21:16.849Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:21:16.849Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:21:16.850Z"}
+{"0":"\"","1":"e","10":"s","11":"t","12":" ","13":"b","14":"e","15":" ","16":"a","17":" ","18":"v","19":"a","2":"m","20":"l","21":"i","22":"d","23":" ","24":"e","25":"m","26":"a","27":"i","28":"l","3":"a","4":"i","5":"l","6":"\"","7":" ","8":"m","9":"u","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T05:21:16.852Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"User Registeration Failed!! Cannot set headers after they are sent to the client","service":"identity-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:278:15)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:12:34)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/index.js:284:15","timestamp":"2025-02-05T05:21:16.853Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"identity-service","timestamp":"2025-02-05T05:21:16.856Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:22:23.170Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:22:23.170Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:22:23.171Z"}
+{"0":"\"","1":"u","10":" ","11":"l","12":"e","13":"n","14":"g","15":"t","16":"h","17":" ","18":"m","19":"u","2":"s","20":"s","21":"t","22":" ","23":"b","24":"e","25":" ","26":"a","27":"t","28":" ","29":"l","3":"e","30":"e","31":"a","32":"s","33":"t","34":" ","35":"5","36":" ","37":"c","38":"h","39":"a","4":"r","40":"r","41":"a","42":"c","43":"t","44":"e","45":"r","46":"s","47":" ","48":"l","49":"o","5":"n","50":"n","51":"g","6":"a","7":"m","8":"e","9":"\"","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T05:22:23.172Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"User Registeration Failed!! Cannot set headers after they are sent to the client","service":"identity-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:278:15)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:12:34)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/index.js:284:15","timestamp":"2025-02-05T05:22:23.173Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"identity-service","timestamp":"2025-02-05T05:22:23.175Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T05:22:40.098Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T05:22:40.108Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T05:22:40.114Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T05:22:40.119Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:22:49.702Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:22:49.703Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:22:49.707Z"}
+{"0":"\"","1":"u","10":" ","11":"l","12":"e","13":"n","14":"g","15":"t","16":"h","17":" ","18":"m","19":"u","2":"s","20":"s","21":"t","22":" ","23":"b","24":"e","25":" ","26":"a","27":"t","28":" ","29":"l","3":"e","30":"e","31":"a","32":"s","33":"t","34":" ","35":"5","36":" ","37":"c","38":"h","39":"a","4":"r","40":"r","41":"a","42":"c","43":"t","44":"e","45":"r","46":"s","47":" ","48":"l","49":"o","5":"n","50":"n","51":"g","6":"a","7":"m","8":"e","9":"\"","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T05:22:49.712Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"User Registeration Failed!! Cannot set headers after they are sent to the client","service":"identity-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:278:15)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:12:34)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/index.js:284:15","timestamp":"2025-02-05T05:22:49.715Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"identity-service","timestamp":"2025-02-05T05:22:49.717Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:23:00.743Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:23:00.744Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:23:00.744Z"}
+{"level":"warn","message":"User already exist","service":"identity-service","timestamp":"2025-02-05T05:23:00.758Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:24:38.651Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:24:38.651Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:24:38.652Z"}
+{"level":"warn","message":"User already exist","service":"identity-service","timestamp":"2025-02-05T05:24:38.657Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:24:45.524Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:24:45.524Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:24:45.525Z"}
+{"buffer":{"data":[103,162,246,29,118,78,206,166,114,98,40,131],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-05T05:24:45.643Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:24:59.380Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:24:59.380Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:24:59.381Z"}
+{"0":"\"","1":"u","10":" ","11":"l","12":"e","13":"n","14":"g","15":"t","16":"h","17":" ","18":"m","19":"u","2":"s","20":"s","21":"t","22":" ","23":"b","24":"e","25":" ","26":"a","27":"t","28":" ","29":"l","3":"e","30":"e","31":"a","32":"s","33":"t","34":" ","35":"5","36":" ","37":"c","38":"h","39":"a","4":"r","40":"r","41":"a","42":"c","43":"t","44":"e","45":"r","46":"s","47":" ","48":"l","49":"o","5":"n","50":"n","51":"g","6":"a","7":"m","8":"e","9":"\"","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T05:24:59.381Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"User Registeration Failed!! Cannot set headers after they are sent to the client","service":"identity-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/response.js:278:15)\n    at register (/home/rabin/Desktop/social-media-microservice/identity-service/src/controllers/user.controller.js:12:34)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/rabin/Desktop/social-media-microservice/identity-service/node_modules/express/lib/router/index.js:284:15","timestamp":"2025-02-05T05:24:59.383Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"identity-service","timestamp":"2025-02-05T05:24:59.384Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T05:25:15.884Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T05:25:15.896Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T05:25:15.903Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T05:25:15.907Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:25:17.721Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:25:17.722Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:25:17.724Z"}
+{"0":"\"","1":"u","10":" ","11":"l","12":"e","13":"n","14":"g","15":"t","16":"h","17":" ","18":"m","19":"u","2":"s","20":"s","21":"t","22":" ","23":"b","24":"e","25":" ","26":"a","27":"t","28":" ","29":"l","3":"e","30":"e","31":"a","32":"s","33":"t","34":" ","35":"5","36":" ","37":"c","38":"h","39":"a","4":"r","40":"r","41":"a","42":"c","43":"t","44":"e","45":"r","46":"s","47":" ","48":"l","49":"o","5":"n","50":"n","51":"g","6":"a","7":"m","8":"e","9":"\"","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T05:25:17.729Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-05T05:25:25.565Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T05:25:25.565Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-05T05:25:25.566Z"}
+{"0":"\"","1":"e","10":"s","11":"t","12":" ","13":"b","14":"e","15":" ","16":"a","17":" ","18":"v","19":"a","2":"m","20":"l","21":"i","22":"d","23":" ","24":"e","25":"m","26":"a","27":"i","28":"l","3":"a","4":"i","5":"l","6":"\"","7":" ","8":"m","9":"u","level":"warn","message":"validation failed","service":"identity-service","timestamp":"2025-02-05T05:25:25.567Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-05T05:28:54.012Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-05T05:28:54.029Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-05T05:28:54.042Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-05T05:28:54.052Z"}
