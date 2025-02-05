@@ -95,3 +95,42 @@
 {"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:45.370Z"}
 {"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:50.683Z"}
 {"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-05T06:43:54.847Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:06:53.196Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:06:53.196Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:06:53.238Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:07:23.562Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:07:23.562Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:07:23.574Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:10:08.244Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:10:08.244Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:10:08.256Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:11:19.678Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:11:19.678Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:11:19.715Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T07:11:48.894Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:11:48.894Z"}
+{"level":"info","message":"Response received from identity-service : 400","service":"api-gateway","timestamp":"2025-02-05T07:11:48.910Z"}
+{"level":"info","message":"Request POST to path /v1/auth/register","service":"api-gateway","timestamp":"2025-02-05T07:11:56.016Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:11:56.016Z"}
+{"level":"info","message":"Response received from identity-service : 201","service":"api-gateway","timestamp":"2025-02-05T07:11:56.205Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:12:10.800Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:12:10.801Z"}
+{"level":"info","message":"Response received from identity-service : 400","service":"api-gateway","timestamp":"2025-02-05T07:12:10.808Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:12:18.973Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:12:18.973Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:12:18.985Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:13:01.454Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:13:01.454Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:13:01.495Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:13:40.067Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:13:40.067Z"}
+{"level":"info","message":"Response received from identity-service : 500","service":"api-gateway","timestamp":"2025-02-05T07:13:40.082Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:14:39.145Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:14:39.145Z"}
+{"level":"info","message":"Response received from identity-service : 200","service":"api-gateway","timestamp":"2025-02-05T07:14:39.329Z"}
+{"level":"info","message":"Request POST to path /v1/auth/login","service":"api-gateway","timestamp":"2025-02-05T07:14:45.212Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:14:45.212Z"}
+{"level":"info","message":"Response received from identity-service : 400","service":"api-gateway","timestamp":"2025-02-05T07:14:45.330Z"}
+{"level":"info","message":"Request POST to path /v1/auth/logout","service":"api-gateway","timestamp":"2025-02-05T07:30:37.452Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-05T07:30:37.452Z"}
+{"level":"info","message":"Response received from identity-service : 200","service":"api-gateway","timestamp":"2025-02-05T07:30:37.481Z"}
