@@ -12,7 +12,7 @@ const { validateJwt } = require('./middlewares/validatetoken')
 
 const app = express()
 
-const redisClient = new Redis()
+const redisClient = new Redis(process.env.REDIS_URL)
 
 app.use(helmet())
 app.use(cors())

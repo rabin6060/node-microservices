@@ -1632,3 +1632,7 @@
 {"level":"info","message":"Request GET to path /v1/search","service":"api-gateway","timestamp":"2025-02-08T11:10:30.033Z"}
 {"level":"info","message":"Request Body -- [object Object]","service":"api-gateway","timestamp":"2025-02-08T11:10:30.033Z"}
 {"level":"info","message":"Response received from identity-service : 200","service":"api-gateway","timestamp":"2025-02-08T11:10:30.041Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-08T12:03:06.152Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-08T12:03:10.623Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-08T12:03:11.810Z"}
+{"level":"info","message":"Api gateway server running on the port 3000","service":"api-gateway","timestamp":"2025-02-08T12:03:14.317Z"}
