@@ -1,0 +1,1021 @@
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T09:56:10.668Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T09:56:10.678Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T09:56:10.734Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T09:56:10.740Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T09:56:10.743Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a72a541e5a0d973edc85b3\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"new haha haha\"}","service":"post-service","timestamp":"2025-02-08T09:56:36.341Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T09:56:36.342Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T09:56:36.357Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:05:36.444Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:05:36.445Z"}
+{"level":"error","message":"ReferenceError: logger is not defined\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/search-service/src/middlewares/authUser.js:7:9)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:328:13)\n    at /home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:286:9\n    at Function.process_params (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:175:3)\n    at router (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:47:12)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/layer.js:95:5)\n    at trim_prefix (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/router/index.js:328:13)","service":"post-service","timestamp":"2025-02-08T10:05:36.445Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:06:14.904Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:06:14.912Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:06:14.967Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:06:14.972Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:06:14.977Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:06:17.448Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:06:17.457Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:06:17.516Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:06:17.526Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:06:17.532Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:06:20.144Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:06:20.144Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"post-service","timestamp":"2025-02-08T10:06:20.145Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:06:20.148Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:18:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:06:20.169Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:06:20.170Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:06:30.847Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:06:30.848Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"post-service","timestamp":"2025-02-08T10:06:30.849Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:06:30.850Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:18:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:06:30.855Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:06:30.856Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:07:08.811Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:07:08.812Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"post-service","timestamp":"2025-02-08T10:07:08.812Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:07:08.813Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:18:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:07:08.818Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:07:08.819Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a72cd71e5a0d973edc85b5\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"new haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:07:19.036Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:07:19.037Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:07:19.046Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:07:24.558Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:07:24.559Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"post-service","timestamp":"2025-02-08T10:07:24.559Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:07:24.560Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:18:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:07:24.566Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:07:24.567Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:08:29.133Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:08:29.133Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"post-service","timestamp":"2025-02-08T10:08:29.133Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:08:29.134Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:18:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:08:29.139Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:08:29.139Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:09:15.561Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:09:15.561Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:09:15.561Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:09:52.845Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:09:52.845Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:09:52.846Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:20.553Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:20.564Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:20.619Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:20.627Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:20.632Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:24.185Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:24.196Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:24.259Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:24.270Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:24.277Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:30.901Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:30.911Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:30.973Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:30.977Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:30.980Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:33.278Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:33.292Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:33.348Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:33.354Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:33.357Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:34.887Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:34.897Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:34.952Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:34.958Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:34.962Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:36.592Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:36.603Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:36.660Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:36.669Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:36.677Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:40.100Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:40.110Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:40.166Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:40.174Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:40.179Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:42.182Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:42.191Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:42.244Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:42.249Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:42.252Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:10:47.353Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:10:47.365Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:10:47.422Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:10:47.429Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:10:47.433Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:11:05.444Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:11:05.456Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:11:05.511Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:11:05.517Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:11:05.521Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:11:09.113Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:11:09.114Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:11:09.114Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:23:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:11:09.131Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:11:09.134Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:11:15.999Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:11:16.000Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:11:16.000Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:23:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:11:16.005Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:11:16.006Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:11:21.764Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:11:21.765Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:11:21.765Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:11:29.306Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:11:29.306Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:11:29.307Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:11:35.551Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:11:35.551Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:11:35.551Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:11:38.999Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:11:38.999Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:11:39.000Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:11:49.272Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:11:49.286Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:11:49.347Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:11:49.358Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:11:49.365Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:19:00.440Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:19:00.449Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:19:00.503Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:19:00.507Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:19:00.512Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a7300e1e5a0d973edc85b7\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"new haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:21:02.731Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:21:02.732Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:21:02.744Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:21:09.112Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:21:09.112Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:21:09.113Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a730461e5a0d973edc85b9\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"kera haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:21:58.074Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:21:58.075Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:21:58.078Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:22:06.517Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:22:06.517Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:22:06.518Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:22:15.685Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:22:15.686Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:22:15.686Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:24:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:22:15.691Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:22:15.692Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a730e21e5a0d973edc85bb\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"kera haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:24:34.238Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:24:34.239Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:24:34.242Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a730ea1e5a0d973edc85bd\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"first haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:24:42.564Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:24:42.565Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:24:42.568Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:24:49.740Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:24:49.740Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:24:49.740Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:24:58.837Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:24:58.837Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:24:58.838Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:24:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:24:58.841Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:24:58.842Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:26:25.386Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:26:25.397Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:26:25.453Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:26:25.460Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:26:25.464Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:26:32.215Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:26:32.215Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:26:32.216Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:24:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:26:32.227Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T10:26:32.230Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:26:44.423Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:26:44.424Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:26:44.424Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a731741e5a0d973edc85bf\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"first haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:27:00.687Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:27:00.688Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:27:00.701Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:27:10.222Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:27:10.223Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:27:10.223Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:28:30.918Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:28:30.925Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:28:30.983Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:28:30.992Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:28:30.997Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:28:35.888Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:28:35.888Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:28:35.889Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a731d91e5a0d973edc85c1\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"first haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:28:41.250Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:28:41.251Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:28:41.261Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:28:46.395Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:28:46.396Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:28:46.397Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:30:11.113Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:30:11.123Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:30:11.175Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:30:11.180Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:30:11.183Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:30:13.632Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:30:13.640Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:30:13.694Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:30:13.699Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:30:13.705Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:30:15.659Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:30:15.669Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:30:15.728Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:30:15.738Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:30:15.743Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:30:21.507Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:30:21.521Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:30:21.577Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:30:21.582Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:30:21.585Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:30:30.118Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:30:30.125Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:30:30.181Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:30:30.186Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:30:30.191Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a732a21e5a0d973edc85c3\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"first haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:32:02.807Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:32:02.808Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:32:02.821Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a732aa1e5a0d973edc85c5\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"second haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:32:10.299Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:32:10.300Z"}
+{"code":11000,"errorLabelSet":{},"errorResponse":{"code":11000,"errmsg":"E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"}},"index":0,"keyPattern":{"userId":1},"keyValue":{"userId":"67a45984c8b447bf74c28b0c"},"level":"error","message":"post added to search db E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }","service":"post-service","stack":"MongoServerError: E11000 duplicate key error collection: social-search.searches index: userId_1 dup key: { userId: \"67a45984c8b447bf74c28b0c\" }\n    at InsertOneOperation.execute (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/insert.js:51:19)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)\n    at async tryOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:207:20)\n    at async executeOperation (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/operations/execute_operation.js:75:16)\n    at async Collection.insertOne (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/mongodb/lib/collection.js:157:16)","timestamp":"2025-02-08T10:32:10.305Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:35:45.800Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:35:45.811Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:35:45.869Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:35:45.877Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:35:45.883Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:35:56.162Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:35:56.170Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:35:56.224Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:35:56.229Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:35:56.232Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:36:13.701Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:36:13.717Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:36:13.787Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:36:13.795Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:36:13.800Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:36:44.052Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:36:44.063Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:36:44.122Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:36:44.131Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:36:44.136Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:36:54.167Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:36:54.174Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:36:54.238Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:36:54.246Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:36:54.250Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a733f51e5a0d973edc85c7\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"second haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:37:41.476Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:37:41.477Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:37:41.487Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a734591e5a0d973edc85c9\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"second haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:39:21.485Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:39:21.486Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:39:21.496Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:40:32.915Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:40:32.929Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:40:32.988Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:40:32.994Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:40:33.002Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:40:33.006Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:40:36.587Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:40:36.594Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:40:36.648Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:40:36.653Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:40:36.657Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:40:36.660Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:40:40.450Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:40:40.462Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:40:40.519Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:40:44.891Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:40:44.902Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:40:44.957Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:40:49.838Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:40:49.845Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:40:49.907Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:41:12.617Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:41:12.625Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:41:12.682Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:41:23.187Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:41:23.197Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:41:23.251Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:41:24.496Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:41:24.503Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:41:24.559Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:41:24.568Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:41:24.572Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:41:29.988Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:41:29.999Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:41:30.054Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:41:30.058Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:41:30.060Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:41:40.921Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:41:40.930Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:41:40.984Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:41:40.988Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:41:40.990Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:41:48.777Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:41:48.784Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:41:48.840Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:41:48.845Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:41:48.847Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:04.607Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:04.617Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:04.674Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:04.681Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:42:04.683Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:12.967Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:12.977Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:13.033Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:13.039Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:42:13.042Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:15.708Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:15.715Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:15.773Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:15.782Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:42:15.785Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:21.065Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:21.073Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:21.134Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:21.140Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:42:21.142Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:29.267Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:29.277Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:29.337Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:29.345Z"}
+{"level":"error","message":"failed to connect to server","service":"post-service","timestamp":"2025-02-08T10:42:29.348Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:30.971Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:30.981Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:31.036Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:31.039Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:42:31.044Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:42:31.047Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:45.576Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:45.583Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:45.640Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:45.647Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:42:45.656Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:42:45.661Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:42:56.639Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:42:56.651Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:42:56.713Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:42:56.719Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:42:56.725Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:42:56.730Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:01.531Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:01.542Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:01.598Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:01.604Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:01.610Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:01.613Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:05.848Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:05.856Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:05.911Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:05.916Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:05.921Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:05.923Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:11.741Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:11.748Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:11.805Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:11.813Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:11.821Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:11.826Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:33.740Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:33.752Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:33.810Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:33.819Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:33.827Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:33.835Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:35.140Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:35.150Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:35.205Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:35.212Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:35.218Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:35.221Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:41.821Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:41.829Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:41.886Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:41.898Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:41.908Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:41.914Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:47.769Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:47.776Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:47.833Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:47.844Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:47.854Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:47.860Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:54.720Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:54.727Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:54.784Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:54.793Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:54.803Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:54.808Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:43:58.767Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:43:58.777Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:43:58.834Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:43:58.843Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:43:58.852Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:43:58.857Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:00.491Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:00.501Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:00.557Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:00.564Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:00.572Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:00.575Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:02.716Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:02.726Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:02.779Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:02.782Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:02.787Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:02.789Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:07.734Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:07.744Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:07.798Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:07.803Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:07.807Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:07.810Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:11.631Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:11.639Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:11.691Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:11.697Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:11.701Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:11.704Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:13.594Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:13.603Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:13.663Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:13.671Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:13.676Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:13.680Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:41.125Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:41.134Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:41.197Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:41.206Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:41.213Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:41.219Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:42.791Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:42.801Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:42.857Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:42.863Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:42.870Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:42.873Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:44.276Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:44.283Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:44.338Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:44.342Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:44.347Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:44.350Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:44:57.631Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:44:57.641Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:44:57.697Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:44:57.705Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:44:57.713Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:44:57.718Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:46:15.158Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:46:15.165Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:46:15.219Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:46:15.225Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:46:15.233Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:46:15.238Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:46:19.013Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:46:19.021Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:46:19.077Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:46:19.085Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:46:19.094Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:46:19.098Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:46:23.260Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:46:23.271Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:46:23.325Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:46:23.329Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:46:23.335Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:46:23.337Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a732aa1e5a0d973edc85c5\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"post-service","timestamp":"2025-02-08T10:47:20.114Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:47:20.115Z"}
+{"level":"error","message":"post deletion failed from search db Cannot read properties of null (reading 'deleteOne')","service":"post-service","stack":"TypeError: Cannot read properties of null (reading 'deleteOne')\n    at handlePostDeleteEvent (/home/rabin/Desktop/social-media-microservice/search-service/src/events/search.event.js:22:22)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:47:20.125Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:47:39.467Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:47:39.478Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:47:39.533Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:47:39.537Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:47:39.542Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:47:39.544Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:47:40.483Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:47:40.494Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:47:40.550Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:47:40.557Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:47:40.568Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:47:40.572Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a733f51e5a0d973edc85c7\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"post-service","timestamp":"2025-02-08T10:48:22.069Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:48:22.070Z"}
+{"level":"error","message":"post deletion failed from search db result.delete is not a function","service":"post-service","stack":"TypeError: result.delete is not a function\n    at handlePostDeleteEvent (/home/rabin/Desktop/social-media-microservice/search-service/src/events/search.event.js:22:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T10:48:22.085Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:01.121Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:01.131Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:01.195Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:01.209Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:01.215Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:01.220Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:04.909Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:04.919Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:04.977Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:04.984Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:04.993Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:05.000Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:07.211Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:07.218Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:07.275Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:07.280Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:07.285Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:07.288Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:11.730Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:11.738Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:11.791Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:11.797Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:11.803Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:11.806Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:16.501Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:16.508Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:16.562Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:16.566Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:16.572Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:16.575Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:25.271Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:25.278Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:25.333Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:25.339Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:25.345Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:25.348Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:26.772Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:26.784Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:26.840Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:26.845Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:26.850Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:26.852Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:29.118Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:29.125Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:29.181Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:29.188Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:29.196Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:29.201Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:33.148Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:33.159Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:33.215Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:33.222Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:33.229Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:33.232Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:50:36.336Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:50:36.345Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:50:36.401Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:50:36.409Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:50:36.416Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:50:36.420Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a737041e5a0d973edc85cd\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"second haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:50:44.544Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:50:44.545Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:50:44.555Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a7370d1e5a0d973edc85cf\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"first haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:50:53.090Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:50:53.091Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:50:53.095Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:51:00.208Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:51:00.208Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:51:00.209Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:51:07.192Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:51:07.192Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:51:07.193Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a7370d1e5a0d973edc85cf\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"post-service","timestamp":"2025-02-08T10:51:29.711Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:51:29.711Z"}
+{"level":"info","message":"post deletion from search db","service":"post-service","timestamp":"2025-02-08T10:51:29.721Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T10:51:54.665Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T10:51:54.665Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T10:51:54.665Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a737041e5a0d973edc85cd\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"post-service","timestamp":"2025-02-08T10:52:34.953Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:52:34.955Z"}
+{"level":"info","message":"post deletion from search db","service":"post-service","timestamp":"2025-02-08T10:52:34.961Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:55:27.966Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:55:27.974Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:55:28.035Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:55:28.045Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:55:28.055Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:55:28.060Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:55:29.939Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:55:29.951Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:55:30.016Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:55:30.021Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:55:30.026Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:55:30.028Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:55:55.505Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:55:55.514Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:55:55.570Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:55:55.579Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:55:55.589Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:55:55.595Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:55:56.725Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:55:56.733Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:55:56.796Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:55:56.804Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:55:56.814Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:55:56.820Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:55:58.042Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:55:58.052Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:55:58.109Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:55:58.117Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:55:58.127Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:55:58.132Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:03.775Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:03.783Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:03.839Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:03.844Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:03.851Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:03.854Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:12.085Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:12.092Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:12.146Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:12.152Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:12.157Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:12.160Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:15.365Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:15.376Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:15.434Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:15.443Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:15.452Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:15.458Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:20.635Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:20.644Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:20.709Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:20.716Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:20.723Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:20.727Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:22.515Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:22.525Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:22.578Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:22.583Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:22.589Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:22.592Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:24.396Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:24.403Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:24.464Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:24.473Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:24.482Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:24.486Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:29.983Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:29.991Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:30.049Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:30.055Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:30.059Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:30.063Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:43.448Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:43.455Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:43.510Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:43.517Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:43.529Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:43.534Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:52.196Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:52.204Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:52.258Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:52.264Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:52.270Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:52.273Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:56:57.094Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:56:57.104Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:56:57.163Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:56:57.172Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:56:57.180Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:56:57.185Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:57:17.309Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:57:17.318Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:57:17.373Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:57:17.380Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:57:17.386Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:57:17.390Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:57:21.098Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:57:21.106Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:57:21.161Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:57:21.168Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:57:21.176Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:57:21.181Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:57:27.460Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:57:27.470Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:57:27.526Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:57:27.535Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:57:27.544Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:57:27.549Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:57:34.348Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:57:34.360Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:57:34.417Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:57:34.426Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:57:34.435Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:57:34.441Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:57:46.985Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:57:46.995Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:57:47.049Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:57:47.055Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:57:47.062Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:57:47.066Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:57:58.061Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:57:58.071Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:57:58.128Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:57:58.137Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:57:58.145Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:57:58.150Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:07.917Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:07.929Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:07.981Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:07.985Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:07.991Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:07.994Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:15.862Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:15.869Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:15.934Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:15.943Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:15.952Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:15.958Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:17.073Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:17.084Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:17.141Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:17.150Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:17.157Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:17.163Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:19.416Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:19.423Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:19.478Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:19.485Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:19.490Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:19.493Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:22.038Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:22.046Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:22.099Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:22.103Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:22.109Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:22.113Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:24.616Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:24.623Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:24.678Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:24.686Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:24.695Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:24.701Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:25.856Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:25.863Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:25.920Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:25.928Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:25.935Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:25.939Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:34.210Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:34.217Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:34.275Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:34.280Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:34.286Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:34.290Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:36.960Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:36.968Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:37.028Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:37.036Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:37.045Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:37.049Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:43.397Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:43.405Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:43.461Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:43.466Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:43.471Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:43.474Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:58:51.180Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:58:51.187Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:58:51.243Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:58:51.250Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:58:51.258Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:58:51.263Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T10:59:05.413Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T10:59:05.425Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T10:59:05.487Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T10:59:05.500Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T10:59:05.511Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T10:59:05.516Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a7392a1e5a0d973edc85d3\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"first haha haha\"}","service":"post-service","timestamp":"2025-02-08T10:59:54.508Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T10:59:54.509Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T10:59:54.521Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:00:01.917Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:00:01.917Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"post-service","timestamp":"2025-02-08T11:00:01.918Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:00:01.921Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:32:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:00:01.937Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:00:01.938Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:00:09.295Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:00:09.296Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:00:09.296Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:00:13.245Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:00:13.245Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:00:13.246Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:00:14.373Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:00:14.374Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:00:14.374Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:00:15.469Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:00:15.470Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:00:15.470Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:10.287Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:10.297Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:10.352Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:10.357Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:10.364Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:10.366Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:20.430Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:20.441Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:20.494Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:20.498Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:20.503Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:20.506Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:23.321Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:23.331Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:23.385Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:23.391Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:23.398Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:23.403Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:26.165Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:26.177Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:26.235Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:26.239Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:26.243Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:26.246Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:29.185Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:29.193Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:29.246Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:29.253Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:29.260Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:29.265Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:31.749Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:31.760Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:31.814Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:31.820Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:31.825Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:31.827Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:01:33.114Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:01:33.121Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:01:33.177Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:01:33.185Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:01:33.193Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:01:33.195Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:08.156Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:08.157Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:08.158Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:08.189Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:08.190Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:09.434Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:09.435Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:09.435Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:09.442Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:09.442Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:10.539Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:10.540Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:10.540Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:10.547Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:10.547Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:11.712Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:11.712Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:11.714Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:11.724Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:11.725Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:13.149Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:13.149Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:13.149Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:13.157Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:13.158Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:44.052Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:44.053Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:44.053Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:44.059Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:44.059Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:45.357Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:45.357Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:45.357Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:45.363Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:45.363Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:46.515Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:46.515Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:46.515Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:46.523Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:46.523Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:02:47.674Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:02:47.675Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:02:47.675Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:33:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:02:47.682Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:02:47.682Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:03:33.224Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:03:33.232Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:03:33.286Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:03:33.294Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:03:33.302Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:03:33.306Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:03:50.071Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:03:50.072Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:03:50.072Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:03:50.098Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:03:50.099Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:03:52.146Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:03:52.146Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:03:52.147Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:03:52.156Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:03:52.156Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:03:53.498Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:03:53.499Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:03:53.499Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:03:53.506Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:03:53.506Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:04:10.155Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:04:10.165Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:04:10.221Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:04:10.230Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:04:10.239Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:04:10.244Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:04:12.888Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:04:12.899Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:04:12.954Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:04:12.959Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:04:12.966Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:04:12.971Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:04:14.512Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:04:14.519Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:04:14.575Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:04:14.579Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:04:14.584Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:04:14.587Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:04:21.830Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:04:21.830Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:04:21.831Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:04:21.851Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:04:21.852Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:04:23.558Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:04:23.558Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:04:23.559Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:04:23.568Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:04:23.569Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:05:48.951Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:05:48.951Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:05:48.951Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:05:48.958Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:05:48.958Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a73a9c88cf7bcf5a4a6913\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"content\":\"last haha haha\"}","service":"post-service","timestamp":"2025-02-08T11:06:04.713Z"}
+{"level":"info","message":"no messages","service":"post-service","timestamp":"2025-02-08T11:06:04.713Z"}
+{"level":"info","message":"post added to search db","service":"post-service","timestamp":"2025-02-08T11:06:04.723Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:06:09.353Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:06:09.353Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:06:09.353Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:06:21.666Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:06:21.666Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:06:21.666Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:06:21.672Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:06:21.673Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:07:20.730Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:07:20.742Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:07:20.798Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:07:20.807Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:07:20.816Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:07:20.819Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:07:42.168Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:07:42.168Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:07:42.169Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:07:42.195Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:07:42.196Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:07:45.818Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:07:45.819Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:07:45.819Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:07:45.826Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:07:45.827Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:09:46.669Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:09:46.679Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:09:46.738Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:09:46.746Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:09:46.756Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:09:46.761Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:09:55.046Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:09:55.057Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:09:55.114Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:09:55.120Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:09:55.131Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:09:55.134Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:01.206Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:01.207Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:01.207Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:02.542Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:02.543Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:02.543Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:10:12.711Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:10:12.721Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:10:12.776Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:10:12.782Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:10:12.787Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:10:12.790Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:15.526Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:15.527Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:15.528Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:10:15.558Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:10:15.560Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:16.613Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:16.614Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:16.614Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:10:16.622Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:10:16.622Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:18.264Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:18.265Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:18.265Z"}
+{"code":"ERR_HTTP_HEADERS_SENT","level":"error","message":"searching post Failed Cannot set headers after they are sent to the client","service":"post-service","stack":"Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client\n    at ServerResponse.setHeader (node:_http_outgoing:659:11)\n    at ServerResponse.header (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:794:10)\n    at ServerResponse.send (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:174:12)\n    at ServerResponse.json (/home/rabin/Desktop/social-media-microservice/search-service/node_modules/express/lib/response.js:278:15)\n    at searchPosts (/home/rabin/Desktop/social-media-microservice/search-service/src/controller/search.controller.js:34:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)","timestamp":"2025-02-08T11:10:18.272Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"post-service","timestamp":"2025-02-08T11:10:18.273Z"}
+{"level":"info","message":"redis connection success","service":"post-service","timestamp":"2025-02-08T11:10:25.455Z"}
+{"level":"info","message":"connected to mongodb","service":"post-service","timestamp":"2025-02-08T11:10:25.465Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"post-service","timestamp":"2025-02-08T11:10:25.518Z"}
+{"level":"info","message":"Subscribed to event: post.created","service":"post-service","timestamp":"2025-02-08T11:10:25.523Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"post-service","timestamp":"2025-02-08T11:10:25.528Z"}
+{"level":"info","message":"server running at port 3004 ","service":"post-service","timestamp":"2025-02-08T11:10:25.530Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:29.012Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:29.013Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:29.014Z"}
+{"level":"info","message":"Request GET to path /api/search","service":"post-service","timestamp":"2025-02-08T11:10:30.037Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"post-service","timestamp":"2025-02-08T11:10:30.038Z"}
+{"level":"info","message":"search api hit...","service":"post-service","timestamp":"2025-02-08T11:10:30.039Z"}

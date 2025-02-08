@@ -8,6 +8,7 @@ const {rateLimit} = require('express-rate-limit')
 const {RedisStore} = require('rate-limit-redis')
 const proxy = require('express-http-proxy')
 const errorHandler = require('./middlewares/errorHandler')
+const { validateJwt } = require('./middlewares/validatetoken')
 
 const app = express()
 
@@ -55,6 +56,58 @@ app.use('/v1/auth',proxy(process.env.IDENTITY_SERVICE_URL,{
     ...proxyOptions,
     //modify the proxy req header
     proxyReqOptDecorator:(proxyReqOpts, srcReq)=>{
+        proxyReqOpts.headers["Content-Type"] = 'application/json'
+        return proxyReqOpts
+    },
+    userResDecorator:(proxyRes,proxyResData,userReq,userRes)=>{
+        logger.info(`Response received from identity-service : ${proxyRes.statusCode}`)
+        return proxyResData
+    }
+}))
+
+app.use('/v1/posts',validateJwt,proxy(process.env.POST_SERVICE_URL,{
+    ...proxyOptions,
+    //modify the proxy req header
+    proxyReqOptDecorator:(proxyReqOpts, srcReq)=>{
+        proxyReqOpts.headers["Content-Type"] = 'application/json'
+        proxyReqOpts.headers["x-user-id"] = srcReq.user.userId
+        return proxyReqOpts
+    },
+    userResDecorator:(proxyRes,proxyResData,userReq,userRes)=>{
+        logger.info(`Response received from post-service : ${proxyRes.statusCode}`)
+        return proxyResData
+    }
+}))
+
+app.use('/v1/media',validateJwt,proxy(process.env.MEDIA_SERVICE_URL,{
+    ...proxyOptions,
+    //modify the proxy req header
+    parseReqBody:false,// Prevents express-http-proxy from messing with file uploads
+
+    proxyReqOptDecorator:(proxyReqOpts, srcReq)=>{
+        if (srcReq.headers['content-type']?.startsWith('multipart/form-data')) {
+            proxyReqOpts.headers['Content-Type'] = srcReq.headers['content-type'];
+        } else {
+            proxyReqOpts.headers['Content-Type'] = 'application/json';
+        }
+
+        // Forward user ID
+        proxyReqOpts.headers['x-user-id'] = srcReq.user?.userId || '';
+
+        return proxyReqOpts;
+    },
+    
+    userResDecorator:(proxyRes,proxyResData,userReq,userRes)=>{
+        logger.info(`Response received from post-service : ${proxyRes.statusCode}`)
+        return proxyResData
+    }
+}))
+
+app.use('/v1/search',validateJwt,proxy(process.env.SEARCH_SERVICE_URL,{
+    ...proxyOptions,
+    //modify the proxy req header
+    proxyReqOptDecorator:(proxyReqOpts, srcReq)=>{
+        proxyReqOpts.headers['x-user-id'] = srcReq.user?.userId || '';
         proxyReqOpts.headers["Content-Type"] = 'application/json'
         return proxyReqOpts
     },

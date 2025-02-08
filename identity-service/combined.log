@@ -1031,3 +1031,115 @@
 {"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T07:30:37.463Z"}
 {"level":"info","message":"logout starting...","service":"identity-service","timestamp":"2025-02-05T07:30:37.466Z"}
 {"level":"info","message":"logout successfully","service":"identity-service","timestamp":"2025-02-05T07:30:37.479Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-05T09:14:43.525Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-05T09:14:43.526Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-05T09:14:43.527Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-05T09:14:43.652Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-06T06:30:59.331Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-06T06:30:59.343Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-06T06:30:59.351Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":143328,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-06T06:31:29.326Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T06:31:44.695Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:31:44.696Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T06:31:44.699Z"}
+{"0":"O","1":"p","10":"`","11":"u","12":"s","13":"e","14":"r","15":"s","16":".","17":"f","18":"i","19":"n","2":"e","20":"d","21":"O","22":"n","23":"e","24":"(","25":")","26":"`","27":" ","28":"b","29":"u","3":"r","30":"f","31":"f","32":"e","33":"r","34":"i","35":"n","36":"g","37":" ","38":"t","39":"i","4":"a","40":"m","41":"e","42":"d","43":" ","44":"o","45":"u","46":"t","47":" ","48":"a","49":"f","5":"t","50":"t","51":"e","52":"r","53":" ","54":"1","55":"0","56":"0","57":"0","58":"0","59":"m","6":"i","60":"s","7":"o","8":"n","9":" ","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-06T06:31:54.727Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T06:32:25.042Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:32:25.042Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T06:32:25.043Z"}
+{"0":"O","1":"p","10":"`","11":"u","12":"s","13":"e","14":"r","15":"s","16":".","17":"f","18":"i","19":"n","2":"e","20":"d","21":"O","22":"n","23":"e","24":"(","25":")","26":"`","27":" ","28":"b","29":"u","3":"r","30":"f","31":"f","32":"e","33":"r","34":"i","35":"n","36":"g","37":" ","38":"t","39":"i","4":"a","40":"m","41":"e","42":"d","43":" ","44":"o","45":"u","46":"t","47":" ","48":"a","49":"f","5":"t","50":"t","51":"e","52":"r","53":" ","54":"1","55":"0","56":"0","57":"0","58":"0","59":"m","6":"i","60":"s","7":"o","8":"n","9":" ","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-06T06:32:35.050Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T06:33:19.335Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:33:19.335Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T06:33:19.336Z"}
+{"0":"O","1":"p","10":"`","11":"u","12":"s","13":"e","14":"r","15":"s","16":".","17":"f","18":"i","19":"n","2":"e","20":"d","21":"O","22":"n","23":"e","24":"(","25":")","26":"`","27":" ","28":"b","29":"u","3":"r","30":"f","31":"f","32":"e","33":"r","34":"i","35":"n","36":"g","37":" ","38":"t","39":"i","4":"a","40":"m","41":"e","42":"d","43":" ","44":"o","45":"u","46":"t","47":" ","48":"a","49":"f","5":"t","50":"t","51":"e","52":"r","53":" ","54":"1","55":"0","56":"0","57":"0","58":"0","59":"m","6":"i","60":"s","7":"o","8":"n","9":" ","level":"error","message":"Login Failed","service":"identity-service","timestamp":"2025-02-06T06:33:29.347Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-06T06:34:02.318Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:34:02.318Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-06T06:34:02.324Z"}
+{"level":"error","message":"User Registeration Failed!! Operation `users.findOne()` buffering timed out after 10000ms","service":"identity-service","stack":"MongooseError: Operation `users.findOne()` buffering timed out after 10000ms\n    at Timeout.<anonymous> (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)\n    at listOnTimeout (node:internal/timers:581:17)\n    at process.processTimers (node:internal/timers:519:7)","timestamp":"2025-02-06T06:34:12.339Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-06T06:35:52.220Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-06T06:35:52.233Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-06T06:35:52.244Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-06T06:35:52.248Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-06T06:36:35.864Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:36:35.864Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-06T06:36:35.870Z"}
+{"buffer":{"data":[103,164,88,115,168,142,23,122,0,136,9,121],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-06T06:36:36.042Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T06:36:41.562Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:36:41.563Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T06:36:41.564Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-06T06:36:41.692Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-06T06:39:57.059Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-06T06:39:57.070Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-06T06:39:57.075Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-06T06:39:57.079Z"}
+{"level":"info","message":"Request POST to path /api/auth/register","service":"identity-service","timestamp":"2025-02-06T06:41:08.844Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:41:08.844Z"}
+{"level":"info","message":"registering starting...","service":"identity-service","timestamp":"2025-02-06T06:41:08.854Z"}
+{"buffer":{"data":[103,164,89,132,200,180,71,191,116,194,139,12],"type":"Buffer"},"level":"info","message":"User created Successfully.","service":"identity-service","timestamp":"2025-02-06T06:41:09.010Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T06:41:24.750Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T06:41:24.750Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T06:41:24.752Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-06T06:41:24.860Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T07:42:39.630Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T07:42:39.631Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T07:42:39.632Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-06T07:42:39.757Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T09:38:07.364Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T09:38:07.364Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T09:38:07.365Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-06T09:38:07.482Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T10:34:55.458Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T10:34:55.458Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T10:34:55.458Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-06T10:34:55.542Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-06T13:19:44.985Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-06T13:19:44.985Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-06T13:19:44.986Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-06T13:19:45.086Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-07T06:09:43.830Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-07T06:09:43.842Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-07T06:09:43.850Z"}
+{"level":"error","message":"connect ECONNREFUSED 127.0.0.1:27017","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"localhost:27017":{"$clusterTime":null,"address":"localhost:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"iscryptd":false,"lastUpdateTime":1449835,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxBsonObjectSize":null,"maxMessageSizeBytes":null,"maxWireVersion":0,"maxWriteBatchSize":null,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":null,"stale":false,"type":"Unknown"},"service":"identity-service","stack":"MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017\n    at _handleConnectionErrors (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1110:11)\n    at NativeConnection.openUri (/home/rabin/Desktop/social-media-microservice/identity-service/node_modules/mongoose/lib/connection.js:1041:11)","timestamp":"2025-02-07T06:10:13.823Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-07T06:35:39.858Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-07T06:35:39.870Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-07T06:35:39.881Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-07T06:35:39.888Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-07T08:17:09.280Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-07T08:17:09.280Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-07T08:17:09.282Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-07T08:17:09.397Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-07T11:39:45.187Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-07T11:39:45.188Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-07T11:39:45.189Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-07T11:39:45.275Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-07T13:11:17.486Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-07T13:11:17.487Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-07T13:11:17.487Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-07T13:11:17.595Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-07T16:26:09.337Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-07T16:26:09.350Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-07T16:26:09.357Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-07T16:26:09.365Z"}
+{"level":"info","message":"server running at port 3001 ","service":"identity-service","timestamp":"2025-02-08T07:01:10.915Z"}
+{"level":"info","message":"redis connection success","service":"identity-service","timestamp":"2025-02-08T07:01:10.926Z"}
+{"level":"info","message":"db connected successfully","service":"identity-service","timestamp":"2025-02-08T07:01:10.932Z"}
+{"level":"info","message":"Redis client ready!","service":"identity-service","timestamp":"2025-02-08T07:01:10.938Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-08T07:02:11.418Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-08T07:02:11.419Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-08T07:02:11.425Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-08T07:02:11.630Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-08T08:51:15.648Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-08T08:51:15.649Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-08T08:51:15.650Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-08T08:51:15.737Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-08T09:56:22.770Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-08T09:56:22.771Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-08T09:56:22.771Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-08T09:56:22.872Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-08T10:47:08.016Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-08T10:47:08.017Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-08T10:47:08.018Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-08T10:47:08.124Z"}
+{"level":"info","message":"Request POST to path /api/auth/login","service":"identity-service","timestamp":"2025-02-08T10:59:28.419Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"identity-service","timestamp":"2025-02-08T10:59:28.423Z"}
+{"level":"info","message":"login starting..","service":"identity-service","timestamp":"2025-02-08T10:59:28.424Z"}
+{"level":"info","message":"Login successFully","service":"identity-service","timestamp":"2025-02-08T10:59:28.531Z"}

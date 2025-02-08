@@ -1,0 +1,910 @@
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:35:34.407Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:35:34.432Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:39:06.619Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:39:06.620Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:39:37.013Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:39:37.034Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:39:44.292Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:39:44.292Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:45:17.343Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:45:17.343Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:48:39.615Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:48:39.615Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:51:47.586Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:51:47.609Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:51:54.813Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:51:54.834Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:52:34.002Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:52:34.003Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:52:51.453Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:52:51.474Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:52:55.671Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:52:55.672Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:53:21.855Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:53:21.870Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:55:27.278Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:55:27.305Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:55:38.759Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:55:38.772Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:55:43.161Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:55:43.186Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T09:55:51.430Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T09:55:51.452Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T09:57:26.287Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T09:57:26.287Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T09:57:26.293Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:00:31.377Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:00:31.378Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:00:31.379Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:01:42.489Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:01:42.511Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:01:54.121Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:01:54.122Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:01:54.126Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:04:23.922Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:04:23.944Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:04:26.778Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:04:26.778Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:04:26.782Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:04:34.405Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:04:34.405Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:04:34.407Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:04:40.365Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:04:40.388Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:05:20.192Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:05:20.215Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:06:58.815Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:06:58.816Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:06:58.821Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:11:25.241Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:11:25.242Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:11:25.243Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:11:48.536Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:11:48.536Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:11:48.538Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:13:35.832Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:13:35.833Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:13:35.833Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:14:03.322Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:14:03.323Z"}
+{"level":"error","message":"unknown error occured while uploading Multipart: Boundary not found","service":"media-service","stack":"Error: Multipart: Boundary not found\n    at new Multipart (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:233:13)\n    at getInstance (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:33:12)\n    at module.exports (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:56:10)\n    at multerMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/multer/lib/make-middleware.js:28:16)\n    at /home/rabin/Desktop/social-media-microservice/media-service/src/routes/media.routes.js:17:5\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:15:5)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)","timestamp":"2025-02-06T10:14:03.323Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:14:19.696Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:14:19.697Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:14:19.698Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:14:57.557Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:14:57.557Z"}
+{"level":"error","message":"unknown error occured while uploading Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:14:57.559Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:26:56.575Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:26:56.590Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:27:01.410Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:27:01.410Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:27:01.416Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:27:01.421Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:29:43.735Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:29:43.736Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:29:43.737Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:29:43.739Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:30:24.686Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:30:24.686Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:30:24.687Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:30:24.688Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:31:52.924Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:31:52.925Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:31:52.926Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:31:52.926Z"}
+{"level":"info","message":"Request POST to path /v1/media","service":"media-service","timestamp":"2025-02-06T10:32:42.553Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:32:42.553Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:33:32.760Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:33:32.761Z"}
+{"level":"error","message":"ReferenceError: logger is not defined\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:7:9)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:175:3)\n    at router (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:47:12)","service":"media-service","timestamp":"2025-02-06T10:33:32.761Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:34:13.380Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:34:13.380Z"}
+{"level":"error","message":"ReferenceError: logger is not defined\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:7:9)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at /home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:284:15\n    at Function.process_params (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:346:12)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:280:10)\n    at Function.handle (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:175:3)\n    at router (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/index.js:47:12)","service":"media-service","timestamp":"2025-02-06T10:34:13.380Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:34:40.528Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:34:40.544Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T10:34:41.846Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T10:34:41.864Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:34:46.188Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:34:46.189Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"media-service","timestamp":"2025-02-06T10:34:46.189Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T10:34:46.197Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:34:46.231Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T10:34:49.423Z"}
+{"level":"error","message":"Media Upload Failed","service":"media-service","timestamp":"2025-02-06T10:34:49.423Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"media-service","timestamp":"2025-02-06T10:34:49.424Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:35:12.011Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:35:12.011Z"}
+{"level":"warn","message":"UnAuthenticated user","service":"media-service","timestamp":"2025-02-06T10:35:12.012Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T10:35:12.014Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:35:12.017Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T10:35:15.125Z"}
+{"level":"error","message":"Media Upload Failed","service":"media-service","timestamp":"2025-02-06T10:35:15.126Z"}
+{"level":"error","message":"Unhandled Rejection due to promise [object Promise] and reason Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client","service":"media-service","timestamp":"2025-02-06T10:35:15.126Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:36:13.832Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:36:13.832Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:36:13.834Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:36:13.834Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T10:36:19.125Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T10:36:19.125Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T10:36:19.126Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T10:36:19.126Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:19:58.651Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:19:58.652Z"}
+{"level":"error","message":"Unknown upload error: Multipart: Boundary not found Multipart: Boundary not found","service":"media-service","stack":"Error: Multipart: Boundary not found\n    at new Multipart (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:233:13)\n    at getInstance (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:33:12)\n    at module.exports (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:56:10)\n    at multerMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/multer/lib/make-middleware.js:28:16)\n    at /home/rabin/Desktop/social-media-microservice/media-service/src/routes/media.routes.js:28:5\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:16:5)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)","timestamp":"2025-02-06T13:19:58.652Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:19:58.654Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:20:19.901Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:20:19.901Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:20:19.903Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:20:19.903Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:23:29.775Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:23:29.776Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:23:29.777Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:23:29.778Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:23:42.626Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:23:42.627Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:23:42.628Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:23:42.629Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:26:01.263Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:26:01.263Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:26:01.264Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:26:01.265Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:30:05.832Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:30:05.832Z"}
+{"level":"error","message":"Unknown upload error: Multipart: Boundary not found Multipart: Boundary not found","service":"media-service","stack":"Error: Multipart: Boundary not found\n    at new Multipart (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:233:13)\n    at getInstance (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:33:12)\n    at module.exports (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:56:10)\n    at multerMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/multer/lib/make-middleware.js:28:16)\n    at /home/rabin/Desktop/social-media-microservice/media-service/src/routes/media.routes.js:28:5\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:16:5)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)","timestamp":"2025-02-06T13:30:05.833Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:30:05.834Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:32:10.912Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:32:10.913Z"}
+{"level":"error","message":"Unknown upload error: Multipart: Boundary not found Multipart: Boundary not found","service":"media-service","stack":"Error: Multipart: Boundary not found\n    at new Multipart (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:233:13)\n    at getInstance (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:33:12)\n    at module.exports (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:56:10)\n    at multerMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/multer/lib/make-middleware.js:28:16)\n    at /home/rabin/Desktop/social-media-microservice/media-service/src/routes/media.routes.js:28:5\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:16:5)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)","timestamp":"2025-02-06T13:32:10.913Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:32:10.914Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T13:32:23.911Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T13:32:23.934Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:32:43.181Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:32:43.181Z"}
+{"level":"error","message":"Unknown upload error: Multipart: Boundary not found Multipart: Boundary not found","service":"media-service","stack":"Error: Multipart: Boundary not found\n    at new Multipart (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:233:13)\n    at getInstance (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:33:12)\n    at module.exports (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:56:10)\n    at multerMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/multer/lib/make-middleware.js:28:16)\n    at /home/rabin/Desktop/social-media-microservice/media-service/src/routes/media.routes.js:28:5\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:16:5)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)","timestamp":"2025-02-06T13:32:43.184Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:32:43.191Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:33:08.531Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:33:08.531Z"}
+{"level":"error","message":"Unknown upload error: Multipart: Boundary not found Multipart: Boundary not found","service":"media-service","stack":"Error: Multipart: Boundary not found\n    at new Multipart (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:233:13)\n    at getInstance (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:33:12)\n    at module.exports (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/index.js:56:10)\n    at multerMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/multer/lib/make-middleware.js:28:16)\n    at /home/rabin/Desktop/social-media-microservice/media-service/src/routes/media.routes.js:28:5\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)\n    at AuthenticateMiddleware (/home/rabin/Desktop/social-media-microservice/media-service/src/middlewares/authUser.js:16:5)\n    at Layer.handle [as handle_request] (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/layer.js:95:5)\n    at next (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/express/lib/router/route.js:149:13)","timestamp":"2025-02-06T13:33:08.532Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:33:08.533Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:39:08.033Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:39:08.034Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:39:08.037Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:39:08.038Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:39:10.231Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:39:10.232Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:39:10.233Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:39:10.234Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:39:30.499Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:39:30.499Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T13:39:30.504Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:39:30.552Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T13:39:34.553Z"}
+{"level":"error","message":"Media Upload Failed","service":"media-service","timestamp":"2025-02-06T13:39:34.555Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:41:02.462Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:41:02.463Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T13:41:02.464Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:41:02.467Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T13:41:05.483Z"}
+{"level":"error","message":"Media Upload Failed","service":"media-service","timestamp":"2025-02-06T13:41:05.484Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T13:42:19.011Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T13:42:19.035Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T13:44:05.245Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T13:44:05.267Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:44:10.999Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:44:11.000Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T13:44:11.010Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:44:11.045Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T13:44:14.517Z"}
+{"level":"error","message":"Media Upload Failed","service":"media-service","timestamp":"2025-02-06T13:44:14.534Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T13:44:57.215Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T13:44:57.240Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T13:45:39.669Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T13:45:39.695Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T13:45:44.286Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T13:45:44.310Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:45:54.782Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:45:54.782Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T13:45:54.789Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:45:54.835Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T13:45:57.831Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:46:52.153Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:46:52.154Z"}
+{"level":"error","message":"File upload request was incomplete or aborted Unexpected end of form","service":"media-service","stack":"Error: Unexpected end of form\n    at Multipart._final (/home/rabin/Desktop/social-media-microservice/media-service/node_modules/busboy/lib/types/multipart.js:588:17)\n    at prefinish (node:internal/streams/writable:914:14)\n    at finishMaybe (node:internal/streams/writable:928:5)\n    at Writable.end (node:internal/streams/writable:843:5)\n    at IncomingMessage.onend (node:internal/streams/readable:946:10)\n    at Object.onceWrapper (node:events:633:28)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)","storageErrors":[],"timestamp":"2025-02-06T13:46:52.156Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:46:52.159Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-06T13:47:02.140Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-06T13:47:02.141Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-06T13:47:02.142Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-06T13:47:02.145Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-06T13:47:05.320Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:12:55.956Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:12:55.982Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:02.829Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:02.855Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:21.133Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:21.147Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:23.855Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:23.878Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:31.641Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:31.655Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:39.224Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:39.239Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:47.510Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:47.534Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:13:58.969Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:13:58.994Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-06T14:14:05.232Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-06T14:14:05.247Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:40:30.998Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:40:31.067Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:40:31.070Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:41:29.420Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:41:29.481Z"}
+{"level":"info","message":"server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:41:29.485Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:41:41.117Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:41:41.170Z"}
+{"level":"info","message":"mediaserver running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:41:41.173Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:41:42.519Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:41:42.572Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:41:42.574Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:41:50.855Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:41:50.908Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:41:52.509Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:41:52.565Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:41:59.951Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:00.004Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:42:05.080Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:05.131Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:42:05.132Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:42:06.117Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:06.172Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:42:08.487Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:08.538Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:42:12.544Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:12.594Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:42:42.439Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:42.492Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:42:43.763Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:42:43.816Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:25.747Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:25.803Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:30.535Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:30.586Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:33.265Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:33.322Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:42.450Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:42.506Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:44.313Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:44.365Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:45.923Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:45.976Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:48.808Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:48.866Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:56.706Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:56.758Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:44:59.736Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:44:59.790Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:45:05.310Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:45:05.361Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:45:14.174Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:45:14.225Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:46:19.225Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:46:19.275Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:46:47.308Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:46:47.360Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:48:15.446Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:48:15.498Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:48:32.968Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:48:33.023Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:49:13.669Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:49:13.728Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:49:13.730Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:49:32.946Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:49:33.004Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:49:33.007Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:49:45.447Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:49:45.501Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:49:45.504Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:49:51.527Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:49:51.584Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:50:40.400Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:50:40.453Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:51:36.486Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:51:36.541Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:52:08.335Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:52:08.386Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:52:14.398Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:52:14.452Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:52:17.114Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:52:17.169Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:52:25.908Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:52:25.963Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:06.387Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:06.442Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:10.005Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:10.057Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:27.790Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:27.840Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:37.335Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:37.390Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:53:37.393Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:51.959Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:52.014Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:53:52.018Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:57.099Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:57.158Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:53:57.160Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:53:59.226Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:53:59.277Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:54:00.562Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:54:00.612Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:54:00.615Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:54:18.957Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:54:19.011Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:54:25.371Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:54:25.430Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:55:06.617Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:55:06.668Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:55:14.734Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:55:14.787Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:55:15.746Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:55:15.802Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:55:19.612Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:55:19.669Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:55:21.586Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:55:21.644Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:55:54.337Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:55:54.391Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:57:26.259Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:57:26.312Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:57:30.765Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:57:30.820Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:58:11.107Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:58:11.158Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:58:16.355Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:58:16.407Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:58:21.835Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:58:21.888Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:58:26.392Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:58:26.445Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:58:52.795Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:58:52.850Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:58:57.458Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:58:57.509Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T07:58:57.511Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:59:00.480Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:59:00.537Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T07:59:27.834Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T07:59:27.887Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:06:51.954Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:06:52.007Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:08:01.413Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:08:01.468Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:08:03.761Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:08:03.817Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:08:30.593Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:08:30.644Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:08:32.559Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:08:32.612Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:08:58.651Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:08:58.701Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:10:22.564Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:10:22.619Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:10:25.077Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:10:25.129Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:10:34.203Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:10:34.253Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:11:06.473Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:11:06.526Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:11:10.938Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:11:10.992Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:11:35.275Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:11:35.329Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:11:42.731Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:11:42.782Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:12:41.081Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:12:41.135Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:12:44.546Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:12:44.599Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:12:44.647Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:12:49.301Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:12:49.353Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:12:57.666Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:12:57.721Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:12:57.772Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:13:21.902Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:13:21.959Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:13:22.007Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:13:25.223Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:13:25.274Z"}
+{"level":"info","message":"rabbitmq connection successfull","service":"media-service","timestamp":"2025-02-07T08:13:25.320Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:14:14.191Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T08:14:14.244Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T08:14:14.249Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T08:14:14.251Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:14:43.592Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T08:14:43.646Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T08:14:43.656Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T08:14:43.659Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:14:56.057Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T08:14:56.108Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T08:14:56.113Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T08:14:56.114Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:15:02.042Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T08:15:02.093Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:15:03.595Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T08:15:03.648Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T08:15:03.657Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T08:15:03.660Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T08:15:12.064Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T08:15:12.121Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T08:15:12.126Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T08:15:12.128Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:18:59.376Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:18:59.430Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:18:59.434Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:18:59.435Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:19:37.592Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:19:37.651Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:19:37.659Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:19:37.660Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:20:18.260Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:20:18.314Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:20:18.322Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:20:18.323Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:20:24.751Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:20:24.807Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:20:24.812Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:20:24.814Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:20:36.790Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:20:36.842Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:20:36.842Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:20:36.844Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:20:39.411Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:20:39.466Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:20:39.476Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:20:39.479Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:22:07.093Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:22:07.146Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:22:07.151Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:22:07.153Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:22:20.274Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:22:20.331Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:22:20.338Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:22:20.339Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T12:22:22.969Z"}
+{"level":"info","message":"rabbitmq connection successful","service":"media-service","timestamp":"2025-02-07T12:22:23.022Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T12:22:23.028Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T12:22:23.029Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-07T13:06:38.719Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-07T13:06:38.779Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-07T13:06:38.789Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-07T13:06:38.796Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:01:26.928Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:01:26.987Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:01:26.996Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:01:27.002Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:15:24.271Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:15:24.329Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:15:24.337Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:15:24.342Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:17:15.471Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:17:15.529Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:17:15.538Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:17:15.544Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a707e83723189b9eb733e6\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"media-service","timestamp":"2025-02-08T07:32:01.398Z"}
+{"level":"info","message":"no messages","service":"media-service","timestamp":"2025-02-08T07:32:01.398Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:33:22.661Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:33:22.720Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:33:22.727Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:33:22.732Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:33:30.360Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:33:30.418Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:33:30.423Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:33:30.426Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:33:31.529Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:33:31.583Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:33:31.589Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:33:31.592Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:33:33.691Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:33:33.751Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:33:33.760Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:33:33.766Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:33:36.677Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:33:36.739Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:33:36.747Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:33:36.753Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:33:42.919Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:33:42.987Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:33:43.000Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:33:43.008Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:04.845Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:04.902Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:04.906Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:04.909Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:10.297Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:10.354Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:10.361Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:10.364Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:17.248Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:17.317Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:17.326Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:17.332Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:19.978Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:20.040Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:20.048Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:20.055Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:24.560Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:24.625Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:24.630Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:24.635Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:31.630Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:31.691Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:31.702Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:31.708Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:33.889Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:33.952Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:33.959Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:33.962Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:34.935Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:34.994Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:35.002Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:35.009Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:52.835Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:52.895Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:52.899Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:52.902Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:34:54.107Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:34:54.163Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:34:54.171Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:34:54.176Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:35:02.040Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:35:02.097Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:35:02.106Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:35:02.112Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:35:08.449Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:35:08.503Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:35:08.508Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:35:08.512Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:35:10.029Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:35:10.083Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:35:10.088Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:35:10.091Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:35:14.456Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:35:14.518Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:35:14.527Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:35:14.533Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:35:18.004Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:35:18.060Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:35:18.067Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:35:18.070Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:36:01.082Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:36:01.138Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:36:01.146Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:36:01.152Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:36:05.944Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:36:06.004Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:36:06.015Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:36:06.021Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:36:09.018Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:36:09.076Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:36:09.086Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:36:09.091Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:36:13.707Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:36:13.765Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:36:13.774Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:36:13.780Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:36:15.656Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:36:15.716Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:36:15.727Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:36:15.733Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:36:17.820Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:36:17.880Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:36:17.889Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:36:17.896Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:38:02.073Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:38:02.128Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:38:02.133Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:38:02.137Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:38:05.219Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:38:05.279Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:38:05.288Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:38:05.294Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:38:11.850Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:38:11.914Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:38:11.920Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:38:11.923Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:38:13.110Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:38:13.169Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:38:13.175Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:38:13.178Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:40:39.588Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:40:39.646Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:40:39.653Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:40:39.656Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:40:43.461Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:40:43.522Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:40:43.531Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:40:43.537Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:40:49.333Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:40:49.390Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:40:49.400Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:40:49.405Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:41:08.392Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:41:08.450Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:41:08.460Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:41:08.467Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:41:10.564Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:41:10.628Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:41:10.634Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:41:10.638Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:41:11.647Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:41:11.701Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:41:11.705Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:41:11.708Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:41:14.328Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:41:14.391Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:41:14.396Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:41:14.400Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:41:16.282Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:41:16.339Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:41:16.348Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:41:16.355Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:41:23.945Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:41:24.003Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:41:24.013Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:41:24.018Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:30.057Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:30.116Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:30.126Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:30.131Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:38.298Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:38.353Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:38.358Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:38.361Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:40.812Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:40.872Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:40.878Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:40.882Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:42.001Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:42.057Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:42.061Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:42.063Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:46.873Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:46.931Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:46.937Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:46.942Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:48.136Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:48.195Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:48.199Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:48.202Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:51.430Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:51.488Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:51.496Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:51.500Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:42:55.227Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:42:55.284Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:42:55.288Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:42:55.291Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:43:12.642Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:43:12.702Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:43:12.711Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:43:12.717Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:43:15.152Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:43:15.209Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:43:15.219Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:43:15.225Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:43:17.739Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:43:17.794Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:43:17.800Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:43:17.803Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:43:33.240Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:43:33.297Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:43:33.303Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:43:33.307Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:43:34.393Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:43:34.453Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:43:34.462Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:43:34.467Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:44:04.002Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:44:04.058Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:44:04.064Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:44:04.067Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:44:08.499Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:44:08.557Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:44:08.566Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:44:08.571Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:44:12.705Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:44:12.767Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:44:12.776Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:44:12.783Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:44:15.833Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:44:15.893Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:44:15.899Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:44:15.902Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:44:18.183Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:44:18.245Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:44:18.256Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:44:18.264Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:44:23.620Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:44:23.677Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:44:23.682Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:44:23.687Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:02.748Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:02.804Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:02.811Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:02.816Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:05.331Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:05.386Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:05.390Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:05.394Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:10.071Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:10.130Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:10.139Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:10.147Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:25.756Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:25.818Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:25.832Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:25.839Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:44.133Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:44.193Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:44.202Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:44.207Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:46.612Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:46.671Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:46.681Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:46.687Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:51.710Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:51.773Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:51.784Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:51.791Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:54.000Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:54.062Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:54.069Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:54.072Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:45:57.842Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:45:57.898Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:45:57.905Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:45:57.908Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:00.247Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:00.301Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:00.306Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:00.310Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:01.940Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:01.998Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:02.003Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:02.006Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:04.677Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:04.737Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:04.750Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:04.755Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:07.233Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:07.286Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:07.292Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:07.296Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:08.451Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:08.510Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:08.522Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:08.527Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:49.916Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:49.980Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:49.986Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:49.989Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:51.502Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:51.561Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:51.566Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:51.570Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:46:52.763Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:46:52.824Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:46:52.830Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:46:52.833Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:00.443Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:00.500Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:00.505Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:00.509Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:04.673Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:04.733Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:04.745Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:04.749Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:09.456Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:09.512Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:09.516Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:09.518Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:10.634Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:10.695Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:10.705Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:10.710Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:24.886Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:24.944Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:24.953Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:24.959Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:26.537Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:26.605Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:26.611Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:26.614Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:43.152Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:43.215Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:43.220Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:43.223Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:49.607Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:49.665Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:49.675Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:49.682Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:51.351Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:51.414Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:51.418Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:51.422Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:47:58.103Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:47:58.161Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:47:58.170Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:47:58.176Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:48:02.579Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:48:02.640Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:48:02.645Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:48:02.647Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:48:05.336Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:48:05.391Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:48:05.400Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:48:05.402Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:48:09.461Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:48:09.519Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:48:09.528Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:48:09.534Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:48:16.612Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:48:16.671Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:48:16.680Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:48:16.686Z"}
+{"level":"info","message":"Request POST to path /api/media","service":"media-service","timestamp":"2025-02-08T07:49:12.749Z"}
+{"level":"info","message":"Request Body -- [object Object]","service":"media-service","timestamp":"2025-02-08T07:49:12.750Z"}
+{"level":"info","message":"media uploading started...","service":"media-service","timestamp":"2025-02-08T07:49:12.757Z"}
+{"level":"warn","message":"Client disconnected during file upload","service":"media-service","timestamp":"2025-02-08T07:49:12.852Z"}
+{"level":"info","message":"image successfully uploaded to cloudinary","service":"media-service","timestamp":"2025-02-08T07:49:15.924Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a70c9a9b9153449150476c\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a70c7b1c6a8dd0feb9af0f\"]}","service":"media-service","timestamp":"2025-02-08T07:51:13.666Z"}
+{"level":"info","message":"no messages","service":"media-service","timestamp":"2025-02-08T07:51:13.667Z"}
+{"level":"info","message":"media deleted","service":"media-service","timestamp":"2025-02-08T07:51:15.747Z"}
+{"level":"info","message":"media deleted from cloudinary and media database","service":"media-service","timestamp":"2025-02-08T07:51:15.755Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:21.739Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:21.799Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:21.808Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:21.814Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:27.518Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:27.574Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:27.580Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:27.585Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:29.166Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:29.220Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:29.227Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:29.231Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:30.270Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:30.327Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:30.336Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:30.342Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:33.023Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:33.081Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:33.090Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:33.097Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:55.500Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:55.558Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:55.568Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:55.574Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:53:57.104Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:53:57.162Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:53:57.172Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:53:57.177Z"}
+{"level":"info","message":"db connected successfully","service":"media-service","timestamp":"2025-02-08T07:54:01.044Z"}
+{"level":"info","message":"RabbitMQ connection successful","service":"media-service","timestamp":"2025-02-08T07:54:01.102Z"}
+{"level":"info","message":"Subscribed to event: post.deleted","service":"media-service","timestamp":"2025-02-08T07:54:01.113Z"}
+{"level":"info","message":"media server running at port 3003 ","service":"media-service","timestamp":"2025-02-08T07:54:01.119Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a732aa1e5a0d973edc85c5\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"media-service","timestamp":"2025-02-08T10:47:20.114Z"}
+{"level":"info","message":"no messages","service":"media-service","timestamp":"2025-02-08T10:47:20.115Z"}
+{"level":"info","message":"media deleted","service":"media-service","timestamp":"2025-02-08T10:47:22.503Z"}
+{"level":"info","message":"media deleted from cloudinary and media database","service":"media-service","timestamp":"2025-02-08T10:47:22.510Z"}
+{"level":"info","message":"media deleted for a post : 67a732aa1e5a0d973edc85c5","service":"media-service","timestamp":"2025-02-08T10:47:22.511Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a733f51e5a0d973edc85c7\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"media-service","timestamp":"2025-02-08T10:48:22.067Z"}
+{"level":"info","message":"no messages","service":"media-service","timestamp":"2025-02-08T10:48:22.067Z"}
+{"level":"info","message":"media deleted for a post : 67a733f51e5a0d973edc85c7","service":"media-service","timestamp":"2025-02-08T10:48:22.070Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a7370d1e5a0d973edc85cf\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"media-service","timestamp":"2025-02-08T10:51:29.710Z"}
+{"level":"info","message":"no messages","service":"media-service","timestamp":"2025-02-08T10:51:29.711Z"}
+{"level":"info","message":"media deleted for a post : 67a7370d1e5a0d973edc85cf","service":"media-service","timestamp":"2025-02-08T10:51:29.714Z"}
+{"level":"info","message":"Received message: {\"postId\":\"67a737041e5a0d973edc85cd\",\"userId\":\"67a45984c8b447bf74c28b0c\",\"mediaIds\":[\"67a4bd59ebaaf5d061b94a57\"]}","service":"media-service","timestamp":"2025-02-08T10:52:34.953Z"}
+{"level":"info","message":"no messages","service":"media-service","timestamp":"2025-02-08T10:52:34.954Z"}
+{"level":"info","message":"media deleted for a post : 67a737041e5a0d973edc85cd","service":"media-service","timestamp":"2025-02-08T10:52:34.957Z"}
