@@ -9,16 +9,29 @@ const url = process.env.RABBITMQ_URI;
 let channel;
 let connection;
 
-const connectRabbitMQ = async () => {
+const connectRabbitMQ = async ()=>{
     try {
-        connection = await amqp.connect(url);
-        channel = await connection.createChannel();
-        await channel.assertExchange(exchange_name, 'topic', { durable: false });
-        logger.info("RabbitMQ connection successful");
+        let retries = 5;
+        while (retries--) {
+          try {
+            const connection = await amqp.connect(url);
+            channel = await connection.createChannel()
+        
+            await channel.assertExchange(exchange_name,'topic',{durable:false})
+            logger.info("rabbitmq connection successfull")
+            return channel
+        
+          } catch (err) {
+            console.log('RabbitMQ connection failed, retrying...');
+            await new Promise(res => setTimeout(res, 5000));
+          }
+        }
+        throw new Error('Failed to connect to RabbitMQ');
+        
     } catch (error) {
-        logger.error("RabbitMQ connection failed:", error);
+        logger.error("rabbit mq connection failed",error)
     }
-};
+} 
 
 // **Consumes events based on the provided routing key**
 const consumeEvent = async (routingKey, callback) => {
@@ -39,6 +52,7 @@ const consumeEvent = async (routingKey, callback) => {
                 try {
                     const content = JSON.parse(msg.content.toString());
                     callback(content);
+                    console.log(content)
                     logger.info(`Received message: ${JSON.stringify(content)}`);
                 } catch (err) {
                     logger.error("Error parsing message:", err);
