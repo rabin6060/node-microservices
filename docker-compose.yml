@@ -55,7 +55,7 @@ services:
       - mongodb
     # command: ["./wait-for-it.sh", "rabbitmq:5672", "--", "npm", "start"] 
     environment:
-      - CLOUDINARY_URL=cloudinary://179797792261787:GLLekI-JX8TPVtuAHN0nG9YbdXA@dtksdaodc
+      - CLOUDINARY_URL=your-key
       - JWT_SECRET=mystrongsecret
       - REDIS_URL=redis://redis:6379
       - RABBITMQ_URI=amqp://rabbitmq:5672
